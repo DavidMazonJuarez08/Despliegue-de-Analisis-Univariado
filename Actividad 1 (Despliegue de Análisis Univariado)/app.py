@@ -27,7 +27,6 @@ Variables={
     "Nivel de Leads":df_marketing["Nivel de Leads"],
     "Prueba de Manejo":df_citas["PDM_categoria"],
     "Estatus de Lead":df_citas["Estatus de Lead"],
-    "Potencial de Compra":df_citas["Potencial_categoria"],
     "Asesor Asignado":df_citas["Asesor Asignado"],
     "Canal del Funnel":df_funnel["Canal"],
     "Etapa del Funnel":df_funnel["Item"],
