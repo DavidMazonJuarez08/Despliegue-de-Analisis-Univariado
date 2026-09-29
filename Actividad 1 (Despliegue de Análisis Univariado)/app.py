@@ -12,6 +12,7 @@ df_marketing=pd.read_csv("Marketing_limpio.csv")
 df_citas=pd.read_csv("Citas_Digital_limpio.csv")
 df_funnel=pd.read_csv("Funnel_limpio.csv")
 df_bitacora=pd.read_csv("Bitacora_limpio.csv")
+df_volumen=pd.read_csv("Volumen_Leads_limpio.csv")
 df_topsmkt=pd.read_csv("TOPS_MKT_limpio.csv")
 df_topstdh=pd.read_csv("TOPS_TDH_limpio.csv")
 df_canales=pd.read_csv("Principales_Canales_limpio.csv")
@@ -31,7 +32,7 @@ Variables={
     "Canal del Funnel":df_funnel["Canal"],
     "Etapa del Funnel":df_funnel["Item"],
     "Asesor de Bitácora":df_bitacora["Asesor"],
-    "Volumen de Leads":df_bitacora["Volumen_Leads"],
+    "Volumen de Leads":df_volumen["Volumen_Leads"],
     "Nivel de Afluencia":df_topsmkt["Categoria_Afluencia"],
     "Tamaño de Plantilla":df_topstdh["Categoria_Plantilla"],
     "Canal Principal":df_canales["Canal"],
