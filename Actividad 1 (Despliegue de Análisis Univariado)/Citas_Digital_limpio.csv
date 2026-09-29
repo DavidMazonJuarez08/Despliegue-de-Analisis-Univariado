@@ -1,0 +1,668 @@
+BDC,Fecha,Nombre Cliente,Estatus de Lead,Potencial de compra,PDM,SDC,Venta,Asesor Asignado,¿Por que no ha visitado la agencia?,¿Por que no hay solicitud de credito?,¿Por que no hubo prueba de manejo ?,¿Por que no hubo proceso wow?,¿Por que se asigno antes de vistar piso?,PDM_categoria,Potencial_num
+Saul,2025-04,Guillermo ,Finalizado,90,True,False,False,Nancy,"Ya visito la Agencia  el dia jueves 17, interesado en GN8 PHEV ","Pide arrendamiento, unicamente se esta en espera de contacto con el contador, posibilidad de compra 90%","Si, hizo prueba de manejo ","Si recibio procesos wow, estuvo en la agencia mas de 3hrs ","No, se espero a que visitara la agencia para ser asignado ",Realizó la prueba,81%-90.5%
+Saul,2025-04,Roberto ,Finalizado,40,False,False,False,Victor,Ya visito la Agencia  el dia 3 de abril ,Por que primero queria manejar las unidad ,No habia unidad GS8 HEV para prueba de manejo ,"Si recibio procesos wow, sin embargo no quizo nada de lo que se le ofrecio como amenidad ",Se asigno hasta que visitara Piso ,No realizó la prueba,33.5%-43%
+Saul,2025-04,Irving ,Finalizado,85,False,False,False,Alan,Ya visito la agencia el dia 21 de abril ,"Firmo solicitud, sin embargo despues comento que seria contado solo que venta su auto, ya esta en proceso de venta ",Por que no habia unidad para prueba de manejo ,"Si se realizo el proceso wow, los clientes se quedaron hasta las 9:00 PM",Se asigno hasta que visitara Piso ,No realizó la prueba,81%-90.5%
+Saul,2025-04,Oswaldo ,Venta,90,False,False,True,Mauricio,El cliente vive en Tabasco Villahermosa,Sera compra de contado,"Ya la manejo en Villahermosa, sin embargo por promocion y disponibilidad la comprara con nosotros","Las veces que se le ha marcado, agradece mucho la atencion por BDC y por el seguimiento continuo","Necesitabamos sacar el apartado, por eso se asigno antes, quedo de depositar el 23 de abril ",No realizó la prueba,81%-90.5%
+Saul,2025-04,Rodrigo ,Finalizado,90,True,False,False,Mauricio,"Visito la agencia el mes pasado, y nos visita nuevamente el 23 de abril ",Hoy visita nuevamente la agencia y se firma solicitud ,"La primera vez que nos visito, realizo PDM",Si recibio el proceso wow la primera vez que nos visito ,"Se asigno hasta que visitara Piso  la primera vez, y se da nuevamnete el seguimiento con ese asesor ",Realizó la prueba,81%-90.5%
+Saul,2025-04,Antonio,Activo,85,True,True,False,Mauricio,Visito la agencia el dia 13 de abril,Si hubo solicitud de credito ,Si realizo prueba de manejo ,"Lo resivio por parte del asesor, ya que el dia domingo la Hosstes descansa ",Se asigno hasta que visitara Piso ,Realizó la prueba,81%-90.5%
+Saul,2025-04,Juan Carlos,Finalizado,20,False,False,False,Ricardo,"Se programo la visita dos dias, pero nunca asistio ",Comento que firmaba en cuando visitara la agencia ,No visito la agencia ,El el proceso de BDC siempre hubo la atencion adecuada y seguimiento ,Se asgino antes por recomendacion de Gerencia de ventas ,No realizó la prueba,14.5%-24%
+Saul,2025-04,Jose Alfredo ,Finalizado,50,True,False,False,Mauricio,Visito la agencia el dia 13 de abril,Se le compartio cotizacion de arrendamiento sin embargo comenta que saldria del estado y posteriormente se comunicaria ,Se realizo PDM en EMkOO HEV,Si hubo por parte del asesor,Se asigno hasta que visitara Piso ,Realizó la prueba,43%-52.5%
+Saul,2025-04,Jacinto ,Finalizado,80,False,False,False,Nancy,No ha visitado la agencia por temas de trabajo ,"Se esta trabajando en ello, sin embargo el cliente tarda en responder",Por que no ha visitado la agencia ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas ,No realizó la prueba,71.5%-81%
+Saul,2025-04,Felipe ,Finalizado,80,True,False,False,Alan,Se le complicaba asitir sin embargo se le llevo la unidad a su casa,Por que comenta que lo esta platicando con su esposa y da respuesta esta semana ,Si hubo prueba de manejo a domicilio ,"Si lo hubo por parte dell asesor, quedo muy contento ",Se asgino antes por recomendacion de Gerencia de ventas,Realizó la prueba,71.5%-81%
+Saul,2025-04,Luz Mercedes,Venta,100,True,True,True,Mauricio,Si visito la agencia ,Si hubo solicitud de credito ,Si realizo prueba de manejo ,Si  recibio el proceso wow,Se asigno hasta que visitara Piso ,Realizó la prueba,90.5%-100%
+Antonio,2025-04,Enrique,Finalizado,80,True,True,False,Alan,Cita efectiva,capacidad de pago,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-04,Esteban ,Finalizado,60,False,False,False,Aurelio,No ha visitado la agencia por que primero queria saber estatus de su credito ,"El cliente esta en toda la disposicion de  compartir papeles, pero se asigno a asesor y el lead dejo de dar respuesta ",No concreto cita efectiva el vendedor ,Por parte de BDC siempre se es cortes y amable ,Se asgino antes por recomendacion de Gerencia de ventas,No realizó la prueba,52.5%-62%
+Saul,2025-04,Ramon ,Finalizado,90,True,True,False,Eduardo,Ya la visito anteriormente sin embargo este mes aun no ,Hay credito autorizado ,"Ya hizo prueba de manejo, en mes anterior ",El cliente esta muy satisfecho con la atencion por parte de BDC y APV,Se asigno hasta visita en Plaza angelopolis ,Realizó la prueba,81%-90.5%
+Saul,2025-04,Jose de Jesus ,Finalizado,60,True,False,False,Alan,Ya visito la agencia,El apv comenta que no tiene forma de demostrat ingresos ,No quizo realizar su prueba de manejo ,Se realizo el proceso wow por parte del asesor ,Se asigno hasta que visitara Piso ,Realizó la prueba,52.5%-62%
+Saul,2025-04,Mugdel Janer Morales,Venta,80,False,True,False,Victor,Ya  visito la agencia,Esta en analisis,"No tenia tiempo, comenta tener prisa",Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-04,Carlos Alberto Rios,Activo,80,False,True,False,Mauricio,Ya visito la agencia,Ingresan por Mstar,No trajo licencia,Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-04,Vicente Cortes  ,Finalizado,60,True,False,False,Alan,Ya visito la agencia,Comento mandar papeles y dejo de contestar,Sin registro,Sin registro,Sin registro,Realizó la prueba,52.5%-62%
+Antonio,2025-04,Angel  ,Venta,100,True,True,True,Pedro,ya visito la agencia,compro de contado,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Realizó la prueba,90.5%-100%
+Antonio,2025-04,Jorge Luis Nunez ,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Primero quiere que la vea su esposa,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-04,Mercy,Finalizado,20,True,False,False,Pedro,ya visito la agencia,"No quizo, solo queria boletos del cine",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Realizó la prueba,14.5%-24%
+Antonio,2025-04,Antonio Rodriguez,Activo,80,True,False,False,Alan,ya visito la agencia,"ya ingreso, le faltan mas estados de cuenta",Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-04,Juan Colotl  ,Activo,70,False,True,False,Laura,ya visito la agencia,Ya se ingreso esta en analisis,Se le ofrecio pero no quizo,Recibio la atencion,Se asigna en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-04,Samuel Salamanca,Activo,80,False,False,False,Pedro,ya visito la agencia,Quizo conocer primero la unidad,Si realizo prueba de manejo ,Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-04,Christoph Vega,Activo,80,False,False,False,Mauricio,ya visito la agencia,"solo vio la unidad, su bb estubo desinquieta decidieron retirarse",su bb estubo desinquieta decidieron retirarse,Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Saul,2025-04,Jose Campos ,Activo,70,False,True,False,Ricardo,Ya visito la agencia el dia 24 de abril ,"Es arrendamiento, y esta solo en decidir la unidad ","La unidad no estaba en la agencia, y no habia GS4 habilitada para PDM",Si recibio la atencion ,Por indicaciones de gerencia de ventas,No realizó la prueba,62%-71.5%
+Saul,2025-04,Roberto Luis Pacheco,Activo,40,False,False,False,Pedro,"Ya visito la agencia, llego desde Oaxaca ",Comenta que la unidad ,Le gusto la unidad pero comenta que no es para el ,Recibio la atencion ,Se asigno hasta que visitara Piso ,No realizó la prueba,33.5%-43%
+Antonio,2025-04,Carlos  Texis  Rodriguez  ,Venta,100,True,True,True,Alan,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,90.5%-100%
+Antonio,2025-04,Javier Pazos,Activo,70,True,True,False,Eduardo,Ya visito la agencia,Ya se ingreso solicitud,Ya se realizo prueba de manejo,Recibio la atencion,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2025-04,Roberto Portilla,Activo,70,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Se asigna en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-04,Julian marin castillo,Activo,80,True,False,False,Aurelio,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-05,Edgar Becerril,Venta,80,True,True,True,Ricardo,Ya visito la agencia,"No tenia tiempo, quedo de mandar la informacion",Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-05,Quetzalli Fernanda,Activo,80,True,True,False,Ricardo,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Sin registro,Realizó la prueba,71.5%-81%
+Saul,2025-05,Antonio ,Finalizado,90,True,False,,Mauricio,Visito la Agencia el dia 1 de Mayo ,Por que primero quiere vender su sentra,Realizo PDM en Emkoo,Si hubo por parte del asesor,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Saul,2025-05,Estela Hernandez,Finalizado,70,True,True,False,Mauricio,Visito Custom 2 veces para ver emzoom ,Ya lleno la solicitud de credito ,Ya se realizo prueba de manejo en Apizaco ,Recibio la atencion ,Ocupa asesoria tecnica y visita en tlaxcala ,Realizó la prueba,62%-71.5%
+Saul,2025-05,Arturo Sanchez ,Finalizado,90,True,True,False,Referido Pablo,Nos visita el dia de hoy ,lleno papeles para credito ,Si hubo prueba de manejo ,Recibio la atencion ,Lead referido pero tratado en Digital,Realizó la prueba,81%-90.5%
+Antonio,2025-05,Anselmo Villarreal Rodas,Finalizado,70,True,True,False,Eduardo,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-05,Andres Fernandez Martinez ,Finalizado,90,True,False,False,Eduardo,Lo visitamos en su casa,Ya se ingreso solicitud,Espera GS8 H,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Saul,2025-05,Ulises Alejo ,Finalizado,80,True,False,False,Nancy,Ya visito la agencia el dia domingo 11,Ya se paso a precalificar ,Si hizo prueba de manejo y le encanto la unidad ,Recibio la atencion ,Se asigno hasta el momento de la visita ,Realizó la prueba,71.5%-81%
+Saul,2025-05,Jose alberto ,Finalizado,70,False,False,False,Aurelio,Ya nos visito el dia 12 de mayo ,No quizo dejar INE pero asegura que compra ,Si realizo prueba de manejo ,Recibio la atencion,Se asigno hasta el momento de la visita ,No realizó la prueba,62%-71.5%
+Saul,2025-05,Adilene Ruiz,Venta,90,True,True,True,Mauricio,Ya nos visito el dia 13 de mayo,Ya hay solicitud aprobada por Mstart ,Si realizo prueba de manejo ,Recibio la atencion,Se asgino hasta la visita en piso ,Realizó la prueba,81%-90.5%
+Saul,2025-05,Gerardo garcia ,Finalizado,60,True,False,,Eduardo,Ya nos visito el dia 13 de mayo ,Pide que su mensualidad no exceda los 6mil ,Si hubo prueba de manejo,"recibio la atencion, se fue muy contento ",Se asigno hasta el momento de la visita ,Realizó la prueba,52.5%-62%
+Saul,2025-05,Erick Calderón,Finalizado,80,True,False,False,Ricardo,Ya nos visito el dia  14 de mayo,Es arrendamiento y se esta en espera de contacto,No habia unidad GS8 disponible en la agencia ,Recibio la atencion ,Se asgino hasta la visita en piso ,Realizó la prueba,71.5%-81%
+Saul,2025-05,Jose Luis,Venta,95,True,True,True,Victor,Ya nos visito el dia 17 de mayo,No quiso dejar solicitud firmada,Si hubo prueba de manejo ,Si recibio la atencion ,Se asigna hasta la visita a piso,Realizó la prueba,90.5%-100%
+Saul,2025-05,Cesar  Aguilar,Venta,80,True,True,True,Victor,El cliente es de Veracruz ,Ya hay credito aprobado,El cliente es de Verazruz,ha recibido la atencion correcta ,Para seguimiento a distancia por el Apv,Realizó la prueba,71.5%-81%
+Saul,2025-05,Christian ,Venta,80,True,False,False,Aurelio,"Ya nos visito, y comenta que nos visitara nuevamnete el dia sabado 24 de mayo",Sera compra de contado ,Se le incistio pero no quizo ,Si recibio la atencion ,Se asigna hasta la visita a piso,Realizó la prueba,71.5%-81%
+Antonio,2025-05,Diego Cabrejiz,Activo,80,True,False,True,Nancy,Ya visito la agencia,Sera compra de contado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-05,Sergio Osorno,Activo,80,True,True,False,Pedro,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-05,Jossmarr Csm Gil,Activo,70,True,True,False,Pedro/Eduardo,Ya visito la agencia,Quiere que vea la unidad su esposa,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Saul,2025-05,Pedro Bello,Venta,80,True,True,True,Sin registro,"Visito la agencia y no habia asesor lo atiende pablo, lead del mes de abril ",ya hay solicitud aprobada,Si realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-05,Herrera Erick/Maria del Carmen,Venta,75,True,True,True,Pedro,ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-05,David,Activo,90,True,True,False,Aurelio,Nos visito el dia 27 de Mayo,Ya dejo todo para solicitud ,Realizo PDM en Emkoo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Antonio,2025-05,Lia Vera,Venta,85,True,True,True,Victor,Ya visito la agencia,ya tiene credito autorizado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Antonio,2025-05,Francisco Mier,Activo,70,True,False,False,Victor,Ya visito la agencia,Sin registro,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-05,Ricardo Pedraza Perez  ,Activo,90,True,True,True,Aurelio,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Antonio/Saul,2025-05,Clementina ,Venta,85,True,True,True,Ricardo,Lead de base de datos ,Ya ingreso y se autorizo,Si hubo PDM ,recibio la atencion ,Lead de base de datos ,Realizó la prueba,81%-90.5%
+Saul,2025-06,Aldo Segura ,Finalizado,80,True,True,False,Ricardo,Nos visito el dia 03 de Mayo,Si hubo solicitud sin embargo salio rechazada,Si hay prueba de manejo ,Recibio la atenciao,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-06,Vladimir,Activo,70,True,False,False,Pedro,Ya visito la agencia,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-06,Daniel,Activo,80,True,False,False,Sergio Raymundo,Ya visito la agencia Custom,En proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-06,Francisco Santander ,Finalizado,90,True,False,False,Alan,Nos visito el dia 08 de junio ,Pretende compra de contado ,Realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Saul,2025-06,Dulce Elizabeth ,Activo,90,True,True,True,Pedro,Nos visito el dia viernes 13 de junio ,Ya esta en analisis ,Si hubo prueba de manejo,Recibio la atencion ,Se asgino hasta la visita en piso ,Realizó la prueba,81%-90.5%
+Saul,2025-06,Fernando ,Venta,90,True,True,True,Alan,"Nos visito en plaza, ya deposito apartado ",Ya se esta trabajando ,En proceso,Recibio la atenciao,Se asigna por seguimiento,Realizó la prueba,81%-90.5%
+Antonio,2025-06,Sergio Figueroa,Venta,85,True,True,True,Sergio Raymundo,Ya visito la agencia,ya esta aprobada,Ya realizo prueba de manejo,Recibio la atencion,Se reasigno por seguimiento,Realizó la prueba,81%-90.5%
+Antonio,2025-06,Osvaldo Peña ,Activo,75,True,True,False,Ricardo,Ya visito la agencia,Ya se ingreso solicitud,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-06,Aldo Perz ,Activo,80,False,False,False,Mauricio,Ya nos visito el dia sabado 14 de junio ,Ya tiene credito aprobado en dorada ,Ya realizo prueba de manejo,Recibio la atencios ,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Saul,2025-06,David ,Venta,90,True,False,True,Pedro,Ya nnos visito su esposa el dia 17 ,El esposo viene el viernes y nos deja papeles ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Saul,2025-06,Manuel Portillo,Finalizado,70,False,False,False,Sin registro,Nos visito el dia 16 de junio,Ya hay solicitud de credito ,Si hubo prueba de manejo,Recibio la atenciao,Se asgino hasta la visita en piso ,No realizó la prueba,62%-71.5%
+Antonio,2025-06,Jaime Juarez,Activo,5,True,True,False,Mauricio,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,5%-14.5%
+Antonio,2025-06,Pedro Jesus  Pestana Castillo ,Activo,70,True,True,False,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-06,Maximo Fernandez/Fabiana,Venta,90,True,True,True,Pedro,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Saul,2025-06,Anabell,Venta,90,True,True,True,Pedro,Lead de mes atras ,Ya esta en proceso,Ya se realizo prueba de manejo,Recibio la atenciao,Se asigna por que se conocio en plaza ,Realizó la prueba,81%-90.5%
+Antonio,2025-06,Benjamin/ Element empresa,Venta,90,True,True,True,Alan,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Antonio,2025-06,Luis Carlos Gomez ,Activo,50,True,True,False,Marcos Coca,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,43%-52.5%
+Antonio,2025-06,Jesus Morales,Venta,70,True,True,True,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Saul,2025-06,Rossana ,Finalizado,80,True,True,False,Miguel,Ya nos visito el dia 23 de Junio ,Ya esta pre-aprobado ,Ya realizo PDM,Recibio la atencion,Se asigna en la visita ,Realizó la prueba,71.5%-81%
+Antonio,2025-06,Parmenides Ortiz,Activo,70,True,True,False,Victor,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-06,Miguel Angel,Activo,70,True,True,False,Mauricio,Ya visito la agencia,Ya esta pre aprobado,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Saul,2025-06,Jose Miguel,Activo,70,True,False,False,Mauricio,Ya nos visito el dia 27 de junio,En proceso,Ya realizo la prueba de manejo ,Si recibio la atencion ,se asigno hasta la visita de piso ,Realizó la prueba,62%-71.5%
+Antonio,2025-06,Olivia rascon sosa,Activo,60,True,True,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-06,Mireya Eugenia Ceron,Activo,60,True,True,True,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-06,Arturo Alcantar,Activo,70,True,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Saul,2025-06,Hugo,Activo,60,False,False,False,Alan,Ya nos visito el dia 30 de junio ,Ya esta en proceso ,Ya se realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,No realizó la prueba,52.5%-62%
+Saul,2025-07,Hugo Martines ,Activo,60,True,True,,Alan,Ya nos visito el dia 01 de Juio,Esta en proceso por ensueño,Si realizo la prueba de manejo ,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-07,Heriberto Solis Perez,Activo,60,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-07,Julio Jimenez,Activo,70,True,True,True,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-07,Edgar Corte ,Activo,70,False,False,False,Carlos Texis,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,No realizó la prueba,62%-71.5%
+Saul,2025-07,Grabiel Zamora ,Activo,90,True,True,False,Mauricio,Ya nos visito el dia 05/julio,Esta en proceso,Esta en proceso,Esta en proceso,Se  asigna en visita,Realizó la prueba,81%-90.5%
+Saul,2025-07,Ivan ,Activo,80,False,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Saul,2025-07,Anthony,Activo,80,True,True,False,Sin registro,Ya nos visito ,Ya esta la solicitud ,Ya realizo la prueba de manejo ,Esta en proceso,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Ernesto Vega,Activo,80,True,True,True,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-07,Hector Cortes ,Activo,85,True,False,False,Alan Gonzalez,Ya nos visito,Esta en proceso, Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigna en la visita ,Realizó la prueba,81%-90.5%
+Antonio,2025-07,Gabriel,Activo,80,True,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-07,Fausto,Activo,80,True,True,False,Ricardo,Ya nos visito el dia 11 de Julio ,Ya esta en proceso ,Ya realizo la prueba de manejo ,Recibio la atencios ,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Javer Moreno,Activo,80,False,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Llego al cierre del dia,Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Saul,2025-07,Roberto Paz Rojano ,Activo,80,False,False,False,Aurelio,Ya nos visito el dia 15 Julio ,Ya esta en proceso ,El cliente comenta que no queria manejar la unidad ,Recibio la atencion ,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Saul,2025-07,Alfonso ,Activo,80,False,False,False,Pedro Antonio,Ya nos visito el dia 16 de julio ,Ya esta en proceso ,Si hubo prueba de manejo ,Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-07,Antonio/Talia,Activo,80,False,True,True,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-07,Marisol Luna,Activo,80,True,True,False,Aurelio,Ya visito la agencia,Autorizada,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-07,Erick ,Finalizado,70,True,True,False,Aurelio,Ya visito la agencia ,El credito fue rachazado ,realizo prueba de manejo ,Recibio la atencion ,Se asigna en la visita ,Realizó la prueba,62%-71.5%
+Saul,2025-07,Karla ,Activo,75,False,False,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita ,No realizó la prueba,71.5%-81%
+Antonio,2025-07,Jose Hermenegildo ,Activo,80,True,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Jossmarr  Csm Gil ,Activo,90,True,True,True,Marcos Coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Saul,2025-07,Guillermina ,Activo,90,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Antonio,2025-07,Lorenzo Coyotl ,Activo,80,True,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Patricia Rios,Activo,60,True,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-07,Armando Alvarez Morales,Activo,80,True,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Juan Manuel Infante,Activo,85,True,True,False,Marcos Coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,81%-90.5%
+Saul,2025-07,Gustavo Rojas Garcia,Activo,80,True,True,False,Victor,Ya visito la agencia,Si hay solicitud de credito ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Saul,2025-07,Mauricio Garcia,Activo,80,True,True,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Susana Morales Gutierrez,Activo,80,True,False,False,Alan Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Valerio Figueroa,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-07,Sr Martinez,Activo,80,True,False,False,Marcos Coca,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-07,German Hernandez,Activo,60,True,False,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Saul,2025-07,Oscar,Activo,80,False,True,False,Daniel,Ya visito la agencia,Ya esta en proceso,No habia Unidad Demo,Recibio la atencion ,Se asigna en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-07,Alvaro Vega Tobón,Activo,80,True,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Manolin Marin  ,Activo,80,True,False,False,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-08,Abraham Fernandez ,Activo,70,False,False,False,Mercedes,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2025-08,Karina Madrid,Activo,80,True,False,False,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Iram Sanchez,Activo,80,True,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Gilberto,Activo,80,True,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Marta Gomez,Activo,60,True,False,False,Alan/Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Ana,2025-08,Norma Cruz,Activo,70,True,False,False,Ricardo,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-08,Ryan Pacheco ,Activo,90,True,True,True,Pedro,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Realizó la prueba,81%-90.5%
+Antonio,2025-08,Miguel Edgar Ayllon,Activo,75,True,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Jesus Ramirez,Activo,70,True,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-08,Jose Frein Romero Vega ,Activo,70,False,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-08,Javier Garcia ,Activo,70,True,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2025-08,Angelica Tejeda,Activo,80,True,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Ariel Macbeth Fierro Lima,Activo,75,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Robert Lopez,Activo,75,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Eduardo Solis,Activo,80,True,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-08,Margarita Rodriguez,Finalizado,50,False,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2025-08,Jhonny Frost ,Activo,70,True,True,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-08,Obed Garcia ,Activo,70,True,False,False,Alan,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-08,Nazario Garcia,Activo,70,True,False,False,Aurelio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-08,Edson Jair,Activo,60,False,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2025-08,Oscar Daniel Cuautli LÃÂÃÂÃ,Activo,70,False,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-08,Ruben Quiroz ,Activo,70,True,True,False,Mauricio,Ya visito la agencia ,Ya este en proceso ,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2025-08,Hipolito Leandro Funes ,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Ruben Rafael Lozada ,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-08,Fabi?n Zaldivar Arres ,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Alejandro Sosa,Activo,50,False,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,No realizó la prueba,43%-52.5%
+Antonio,2025-08,Evangelina Rojas Juarez ,Activo,80,True,True,False,Mercedes,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Curro,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2025-08,Gabino Arrieta ,Activo,60,True,False,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Sin registro,Realizó la prueba,52.5%-62%
+Ana,2025-08,Aldo Anzures Martinez,Activo,80,True,False,False,Ricardo,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2025-08,antonio pavon garcia,Activo,50,False,False,False,Marcos,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2025-08,Andres Felipe ,Activo,60,False,False,False,Marcos,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Antonio,2025-08,Elizabeth  Toledo ,Activo,80,True,False,False,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,JUAN ANTONIO CASTELAN SANTIAGO,Activo,80,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Luis Angel Ramos,Activo,60,True,False,False,Jeamy Custom,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Ana,2025-08,Julia María Navarrete Carreño,Activo,80,True,False,False,Marcos,Ya visito  la agencia ,Sin registro,Ya realizo prueba de manejo ,Recibio la atencion,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-08,Ozair Viveros,Activo,80,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-08,Yaimy  Guiterrez ,Activo,50,False,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Antonio,2025-08,Orlando Delgado ,Activo,50,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,43%-52.5%
+Ana,2025-08,Rodrigo.e.jim,Activo,50,False,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,No realizó la prueba,43%-52.5%
+Ana,2025-08,"Gabriel  Franco , Vazquez",Activo,60,False,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,No realizó la prueba,52.5%-62%
+Antonio,2025-08,Marisol Luna  Angeles,Activo,80,True,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-08,"Marcos Benjamin Oviedo, Moreno",Activo,60,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Ana,2025-08,Fernando Pacheco ,Activo,60,False,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,No realizó la prueba,52.5%-62%
+Antonio,2025-09,Johann Arevalo Zaragoza,Activo,60,True,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Ana,2025-09,Alejandro Valentin,Activo,60,False,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2025-09,"Maria  Dolores , Rueda ",Activo,60,False,False,False,Ignacio,Videollamada,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2025-09,Nahum Montiel,Activo,50,False,False,False,Alan,Videollamada,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Antonio,2025-09,Juan,Activo,60,True,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-09,Comercializadora   Y Distribuidora,Activo,80,True,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-09,Juan Aguilar Moreno ,Activo,60,False,False,False,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2025-09,Jorge Luis,Activo,70,False,False,False,Mercedes,Videollamada,Ya esta en proceso,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-09,Ricardo,Activo,60,False,False,False,Mercedes,Ya visita la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Antonio,2025-09,Miguel Angel Cuenca Perez,Activo,80,True,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-09,Eloy Perez Gracia,Activo,80,True,False,False,Alan,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-09,Oscar Campech,Activo,60,True,False,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita,Realizó la prueba,52.5%-62%
+Ana,2025-09,Levy Carrillo,Activo,80,True,False,False,Julio Cesar,Ya visito la agencia,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita3,Realizó la prueba,71.5%-81%
+Antonio,2025-09,Monserrat Vivar Garcia,Activo,80,True,False,False,Aurelio,Ya visito la agencia,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-09,Erwin Castaneda  ,Activo,70,True,False,False,Pedro Antonio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-09,Adriel Zenteno,Activo,70,False,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2025-09,Mary Luz Carrillo Eliosa,Sin registro,70,True,False,False,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,62%-71.5%
+Ana,2025-09,Sergio   Contreras ,Activo,60,False,False,False,Mauricio,Videollamada,Ya esta en proceso ,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Antonio,2025-09,Alejandro Huerta Fuentes,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-09,Felipe Sanchez/sigmundo,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-09,Salvador Flores,Activo,80,True,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-09,Marco Antonio  Altamirano Conde ,Activo,80,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-09,Josue  Heron  Lopez,Activo,80,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Yoni Maravilla,Activo,80,True,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Antonio,2025-09,German Leon Sanchez,Activo,80,False,False,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Eddie Fb ,Activo,80,False,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Antonio,2025-09,ISACHIFT117,Activo,70,False,True,False,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,62%-71.5%
+Antonio,2025-09,Gaviota Alvarez,Activo,80,False,True,False,Marcos,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Carlos Leonel  Bautista  ,Activo,80,False,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Marcos  Maldonado ,Activo,60,False,True,False,Julio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,52.5%-62%
+Ana,2025-09,"Edmon   Abdala ,  ",Activo,80,False,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Antelmo Flores Guevara,Activo,80,False,False,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Jose Eduardo Alonso ,Activo,60,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,52.5%-62%
+Antonio,2025-09,Omar Aguilar Teyssier,Activo,80,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-09,Sarai Ruiz,Activo,80,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-09,Jesus Colorado,Activo,80,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-09,"Juan Manuel Mendoza, Hernandez",Activo,80,False,True,False,Julio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Antonio,2025-09,Martha Fernanda Garcia,Activo,80,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-09,Clau,Activo,50,False,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Antonio,2025-09,Javier Garcia Amaya,Activo,60,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,No realizó la prueba,52.5%-62%
+Ana,2025-09,"Joaquin Rodrigo Arias, Rios",Activo,50,True,False,False,Julio,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigna en la visita,Realizó la prueba,43%-52.5%
+Ana,2025-09,Jesus Monreal,Activo,80,True,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-09,Carlos Rodriguez Perez Rodr?guez P?rez ,Activo,70,True,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Realizó la prueba,62%-71.5%
+Ana,2025-09,Julio Cesar Vega ,Activo,70,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion ,Se asigna en la visita ,No realizó la prueba,62%-71.5%
+Ana,2025-09,Ivan Garcia,Activo,80,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion ,Se asigna en la visita ,Realizó la prueba,71.5%-81%
+Antonio,2025-09,Jose De Jesus  Perez,Activo,80,False,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Ricardo  Arenas,Activo,80,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,"Miguel  Irigoyen, ",Activo,70,False,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,62%-71.5%
+Antonio,2025-09,Rene Angel Bellizzi ,Activo,80,False,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Laura Ivonne Martinez ,Activo,80,False,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Alejandro Olivares,Activo,60,False,True,False,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,52.5%-62%
+Antonio,2025-09,Felipe  Tepale,Activo,80,False,True,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Antonio,2025-09,Juan Carlos Miguel ,Activo,80,False,False,False,Victor,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Jesus Manuel  Rios,Activo,60,False,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,52.5%-62%
+Antonio,2025-09,Nicolas Contreras,Activo,80,False,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,"Jose De Jesus  Perez , ",Activo,80,True,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Antonio,2025-09,"Jose Miguel  Cosme, Martinez",Activo,80,False,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Juan Aguilar Moreno ,Activo,80,False,True,False,Mercedes,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-09,Adriel Zenteno ,Activo,80,False,False,False,Ana,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Antonio,2025-09,Jose Eduardo Toriz Bustos ,Activo,80,True,False,False,Alan,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-09,VANNESSA LIZETTE PEREZ CARRANZA,Activo,70,False,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,62%-71.5%
+Ana,2025-09,Juan  Lopez Cruz ,Activo,80,False,False,False,Ricardo,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Antonio,2025-09,NADIA LOPEZ GABRIEL,Activo,80,False,False,True,Mauricio,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-10,"Sixto Tito  Guzman, Varela",Activo,80,True,True,False,Jhosslan,Ya visit la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-10,Rogelio Hernandez,Activo,95,True,True,True,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,90.5%-100%
+Ana,2025-10,Juan Francisco Olvera Alarcon,Activo,70,False,True,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,62%-71.5%
+Ana,2025-10,Gonzalo Chavez,Activo,80,False,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-10,Jesus Gilbert  Cano ,Activo,60,False,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,52.5%-62%
+Antonio,2025-10,Eliseo Huerta,Activo,70,True,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,62%-71.5%
+Antonio,2025-10,Javier  Reyes,Activo,80,False,True,False,Jhosslan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-10,Joaquin Moreno,Activo,80,False,True,False,Alan,Ya visito la agencia ,Ya esta en proceso ,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-10,Jose  Luis   Salazar  ,Activo,80,False,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Jose Luis Pelcastre,Activo,75,True,True,False,Ignacio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Antonio,2025-10,Jennifer,Activo,60,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,52.5%-62%
+Ana,2025-10,Enrique  Enrique  Herrera,Activo,70,False,False,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-10,Ivan Emilio,Activo,85,False,True,False,Antonio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Sin registro,Sin registro,No realizó la prueba,81%-90.5%
+Ana,2025-10,Jose Abraham Zamora Arenas,Activo,80,False,True,False,Ricardo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Gustavo Rojas Garcia,Activo,80,True,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-10,Carmen  Ortega ,Activo,80,False,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-10,Raul Delgado,Activo,70,True,True,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2025-10,Adan Fuentes ,Activo,85,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,81%-90.5%
+Ana,2025-10,Jose Reyes,Activo,70,False,False,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo ,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2025-10,Humberto Maldonado Garcia,Activo,65,True,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,Realizó la prueba,62%-71.5%
+Antonio,2025-10,Miguel Vasquez San Pablo ,Activo,70,False,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita ,No realizó la prueba,62%-71.5%
+Ana,2025-10,Carolina Ortega,Activo,80,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Alejandro Vivas,Activo,80,False,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Jose Manuel Martinez Rodriguez,Activo,80,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso ,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Juan mercado González,Activo,80,False,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Martin Magdaleno  Rodriguez ,Activo,80,False,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Christian Capetillo,Activo,80,False,True,True,Omar,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Jose Manuel Morales Gomez,Activo,80,False,True,False,Omar,Ya visito la agencia ,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Orlando  Cuahutle,Activo,80,False,True,False,Julio,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Joselin Ramirez  Escobar,Activo,70,False,True,False,Alan,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2025-10,Rafael Davila,Activo,65,True,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-10,Felix Luna Baleon,Activo,80,False,True,False,Jhosslan,Ya visito la agencia,Ya esta en proceso,Sin registro,Recibio la atencion,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-10,Luis Munoz ,Activo,80,False,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Monserrat Torres,Activo,60,False,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Antonio,2025-10,Alberto Acocal ,Activo,80,True,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-10,Diego Martinez,Activo,90,False,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,81%-90.5%
+Ana,2025-10,Cesar Cabrera Ortega ,Activo,70,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-10,Diana  Hernandez ,Activo,80,False,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Francisco  Mier ,Activo,80,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Margarita Diaz Garcia ,Activo,80,True,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-10,Teresa Guadalupe  Guillen Venegas,Activo,75,False,True,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Adair Lopez,Activo,60,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Ana,2025-10,Jairo Samuel  Pineda Velasquez,Activo,70,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-10,"Miriam Lizbeth Ruiz, Zamudio",Activo,85,False,True,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,81%-90.5%
+Ana,2025-10,Imelda  Valencia  Sanchez,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-10,"Luis  Jorge , ",Activo,80,False,True,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-10,Waldo Pichon ,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-10,"Taide Cordoba, Sandoval",Activo,70,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-10,"Sandi  Hernandez , ",Activo,85,False,True,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,81%-90.5%
+Ana,2025-10,"Adriana  Zarate, Apolinar",Activo,70,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-10,Victor  Lorenzana ,Activo,65,True,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Antonio,2025-10,"Antonio Ojeda  , ",Activo,70,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-10,Mario Alberto Medrano Mayo,Activo,80,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Antonio De Jesus Lima Hernandez,Activo,80,True,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-10,"Antonio  Lopez, ",Activo,80,False,True,True,Marcos,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-10,"Todoro Lopez, ",Activo,70,True,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-10,"Martin Vazquez  , ",Activo,65,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-10,"Israel Chavez  , ",Activo,80,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-10,Rocio Lopez Mesa,Activo,80,True,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-11,Alexis  Palestina ,Activo,80,False,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-11,Vanessa  Maza ,Activo,80,True,True,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Realizó la prueba,71.5%-81%
+Ana,2025-11,"Hugo Jorge  , ",Activo,70,True,True,True,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,Realizó la prueba,62%-71.5%
+Ana,2025-11,"David  Torres , Ramirez ",Activo,80,False,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-11,Yasmin Galindo ,Activo,80,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-11,Ricardo  Martinez Tepox ,Activo,80,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-11,Ari  Valero ,Activo,80,False,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion ,Se asigno en la visita ,No realizó la prueba,71.5%-81%
+Ana,2025-11,Guadalupe Hernandez ,Activo,80,True,True,False,Pedro Antonio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2025-11,Humberto Calixto,Activo,80,True,True,False,Aurelio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-11,Isidro Ramos,Activo,60,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-11,Jose Alberto ,Activo,60,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2025-11,Andrea Hernandez Reyes,Activo,70,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-11,Manuel Rodriguez ,Activo,80,True,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-11,José Iván Sánchez Pérez,Activo,80,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-11,Octavio Arvea,Activo,70,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-11,Mario Negrete Juarez ,Activo,70,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-11,Juan Gonzales ,Activo,70,False,True,False,Alan,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-11,Marcial   Sanchez   ,Activo,80,False,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-11,Jesus Ivan Ibarra Robles,Activo,80,True,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2025-11,Juan Antonio  Cid  Reynoso  ,Activo,70,False,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-11,Cesar Cabrera Ortega ,Activo,70,False,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-11,Jose De Jesus  Franco Saldana ,Activo,70,False,False,False,Ricardo,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-11,Jose C Tecnom ,Activo,80,False,True,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-11,Rene Beguerisse Torres,Activo,70,False,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2025-11,Jose Ramon Marquez,Activo,70,False,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-11,Ramsey Tecnom,Activo,60,False,False,False,Mauricio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Ana,2025-11,Jorge Ariza,Activo,90,True,True,False,Victor,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,81%-90.5%
+Ana,2025-11,"Manuel  Vinaz, ",Activo,90,True,True,False,Omar,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,81%-90.5%
+Antonio,2025-11,Efrain Zamudio ,Activo,80,False,True,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-11,Rivera Castillo,Activo,80,True,False,False,Aurelio,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-11,Alan Quintero Munive,Activo,70,False,True,False,Pedro,Ya visito la agencia ,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-11,Omar Garcia Vazquez,Activo,70,False,True,False,Aurelio,Ya visito la agencia ,Sin registro,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-11,Victor Arrroyo Tecnom,Activo,70,True,False,False,Pedro,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-11,Hugo Jirge Regalado Castaneda,Activo,60,False,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Ana,2025-11,"Arizbeck  Ortiz, ",Activo,70,True,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-11,"David  Torres , Ramirez ",Activo,80,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-11,Vanessa  Maza ,Activo,80,False,False,True,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-11,Hugo Jirge Regalado  Castaneda ,Activo,70,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-11,"Jean  Simoni, ",Activo,70,False,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-11,Gustavo Rojas ,Activo,70,False,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-11,"Rafael  Chocolatl, Cervantes",Activo,80,True,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-11,"Dionisio Arce, Martinez",Activo,80,False,False,False,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-11,Mauel  Ramirez ,Activo,70,False,True,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-11,"Roberto Carlos Parra, Castelan",Activo,70,True,True,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-11,Jose Luis Martinez,Activo,70,False,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-11,"Oscar  Arroyo, ",Activo,80,True,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-11,"Hector Alejandro Gonzalez Tapia  , ",Activo,70,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2025-11,Cristian Ocampo ,Activo,70,True,True,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-11,"Gloria Elena  Benavides, ",Activo,80,False,True,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-11,Efrain Zamudio ,Activo,80,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-11,Carolina  Ortega ,Activo,70,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-11,"Hector Miguel  Fernandez , ",Activo,80,True,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Sr. Elvis fb,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Magdaleno,Activo,80,False,True,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2025-12,Cerezo Honorato,Activo,80,True,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-12,Laura Garcia,Activo,70,True,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-12,Sr. Francisco Cianca,Activo,70,False,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Jose De Jesus Perez Hernandez,Activo,80,False,False,False,Sin registro,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-12,Jose Abraham,Activo,80,True,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-12,Jose Luis Rojas Aguilar,Activo,80,True,False,False,Ignacio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-12,"Sr. Roberto Loeza
+",Activo,60,False,True,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Ana,2025-12,Ale Arellano,Activo,80,False,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Eugenio De Las Heras B,Activo,80,False,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Francisco/Maria del Sol,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Filiberto González Guarneros,Activo,80,False,True,False,Omar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Jose Alberto,Activo,60,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Antonio,2025-12,Luciano Valdès,Activo,80,True,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Agustin,Activo,70,True,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2025-12, MIGUEL SANTAMARIA MORALES,Activo,90,True,False,False,Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2025-12,Jose Luis Guevara,Activo,80,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-12,Dario Castillo,Activo,80,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2025-12,Sixto Tito,Activo,80,False,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Antonio Sanchez,Activo,80,True,False,False,Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-12,Marco Antonio,Activo,75,False,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Andy,Activo,80,True,False,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Hugo,Activo,80,True,False,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Vicente Acosta,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2025-12,Luis Lopez,Activo,70,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-12,Lalo Diaz,Activo,90,True,True,False,Victor,Ya visito la agencia                              ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2025-12,Julián García,Activo,80,True,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Rigoberto Salazar,Activo,70,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Rodriguez Perslta,Activo,70,False,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Diana Paola Cervantes Márquez,Activo,70,False,True,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Mahe Aguilar,Activo,60,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Ana,2025-12,Eliut t,Activo,80,True,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2025-12,Edward T,Activo,70,False,True,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-12,Mtro Milton,Activo,70,False,False,False,Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2025-12,"Maria Elena  Sanchez , Perez ",Activo,80,True,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Antonio,2025-12,Oscar Bautista,Activo,60,False,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2025-12,Adrian Paadilla,Activo,70,True,False,False,Ricardo,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2025-12,Gregorio Roldan Garcia,Activo,70,False,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Manuel Baltazar,Activo,70,False,True,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Carlos Mungia,Activo,80,False,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Edith Gonzalez,Activo,70,False,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Guillermo Canto,Activo,70,False,False,False,Ricardo,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Gabriel Meza,Activo,70,False,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Jose Miguel,Activo,70,False,False,False,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2025-12,Carlos Ignacio,Activo,80,False,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2025-12,Carlos,Activo,80,False,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-01,Miguel Ramirez,Activo,70,False,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2026-01,Marcela Ramírez,Activo,70,False,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2026-01,Rafael Lopez,Activo,70,False,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2026-01,Irma Juarez,Activo,70,False,False,False,Elizabeth,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2026-01,Jimmy T,Activo,70,False,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-01,Misael  Rodriguez ,Activo,70,False,False,False,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-01,"Cesar  C ,  ",Activo,90,True,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,81%-90.5%
+Antonio,2026-01,Mireya,Activo,90,True,True,True,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,81%-90.5%
+Antonio,2026-01,Liliana Alvarez,Activo,80,False,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-01,Rodrigo P,Activo,90,False,False,False,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,81%-90.5%
+Antonio,2026-01,Alfonso Ibañez Olmos,Activo,80,False,False,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-01,Guillermo Hernandez,Activo,80,False,False,False,Nancy,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Ana,2026-01,Roman Aguilar,Activo,60,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-01,NATANAEL OLVERA San Pablo,Activo,70,True,True,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-01,Lau T,Activo,70,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-01,Jose Luis Dominguez,Activo,80,False,False,False,Aurelio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2026-01,Juan FLores,Activo,70,False,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Antonio,2026-01,Omar  Cuautle,Activo,60,False,False,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Ana,2026-01,Luis Angel l Rojas Lecona,Activo,70,False,False,False,Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-01,Joe Carrera,Activo,80,False,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-01,ana CAROLINA CAMPO,Activo,80,True,True,False,Ricardo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-01,Sadrac  Acostha ,Activo,80,False,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-01,Ricardo,Activo,70,False,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2026-01,Alejandra Martinez,Activo,90,False,False,False,Alan,FORANEA VERACRUZ,Ya esta en proceso,FORANEA VERACRUZ,FORANEA VERACRUZ,Se asigno por SC,No realizó la prueba,81%-90.5%
+Antonio,2026-01,Ericka Huerta Viveros,Activo,70,False,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,No realizó la prueba,62%-71.5%
+Antonio,2026-01,EDGAR ARCOS,Activo,70,False,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,No realizó la prueba,62%-71.5%
+Antonio,2026-01,Julio Guzmán,Activo,60,False,True,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,No realizó la prueba,52.5%-62%
+Ana,2026-01,Sadrac Acosta,Activo,60,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-01,Darth V,Activo,60,False,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-01,JUAN VALDEZ,Activo,70,True,False,False,Alan,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-01,Lidio Sandoval Vazquez,Activo,60,False,False,False,Sin registro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Antonio,2026-01,Julio Cesar,Activo,80,False,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,FORANEA VERACRUZ,Se asigno por SC,No realizó la prueba,71.5%-81%
+Ana,2026-01,Luis Aldana,Activo,80,True,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-01,CARLOS ERNESTO PAREDES,Activo,80,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-01,Demetrio  Zamara,Activo,80,True,True,False,Mauricio,Ya visito la agencua,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-01,Roberto De Jesus Lopez,Activo,70,False,False,False,Alan,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2026-02,Sergio Cebada,Activo,80,True,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2026-02,Orlando Peralta,Activo,80,True,False,False,Pedro Antonio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2026-02,jose angel varela,Activo,80,True,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2026-02,ANA MARIA NIETO,Activo,80,False,True,False,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-02,Nitzel Zempoaltecatl,Activo,90,False,False,False,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,81%-90.5%
+Antonio,2026-02,Sergio ortega,Activo,90,True,True,True,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,81%-90.5%
+Antonio,2026-02,Ramón Antonio,Activo,60,True,True,True,Pedro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2026-02,Cuautemoc Paramo Prado,Activo,60,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Ana,2026-02,Josafat Cuapio,Activo,70,False,True,False,Sin registro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-02,Gilberto Fr,Activo,60,False,False,False,Carlos Hernandez,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-02,Sergio Gonzalez,Activo,80,False,False,False,Carlos Mejia,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-02,Adolfo Aguilar,Activo,70,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-02,Antonio De Jesús Lima Hernández,Activo,60,False,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Antonio,2026-02,Cesar M,Activo,70,True,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2026-02,Martín Vázquez,Sin registro,75,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-02,Pimentel Eleuterio,Sin registro,75,False,False,False,Cesar Pestaña,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Antonio,2026-02,Frida T,Activo,90,True,True,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,81%-90.5%
+Ana,2026-02,Alicia Avila,Activo,80,False,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-02,Carlos Lozano Ramos,Activo,70,True,False,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-02,MA ELENA ISABEL LEAN BURGOS-,Activo,100,True,True,False,Aurelio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Antonio,2026-02,Miguel Galindo Aburto,Activo,80,False,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-02,Omar Reyes,Activo,75,True,False,False,Julio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2026-02,Fernando Tellez,Activo,60,False,False,False,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Antonio,2026-02,Rey Hernandez,Sin registro,70,False,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2026-02,Bety Herrera,Activo,70,False,False,False,Carlos Hdz,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-02,Miguel Grande,Activo,60,True,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,52.5%-62%
+Ana,2026-02,Israel Hernández Pérez,Activo,60,False,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-02,JOSE LUIS LOYA,Activo,70,True,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-02,Brian Michel Villegas,Activo,70,True,False,False,Alan,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-02,Hugo Velazquez,Activo,70,False,False,False,Mauricio,Videollamada,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2026-02,Karen,Activo,60,True,False,False,Carlos Hdz,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2026-03,Rene Osorno,Activo,60,True,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2026-03,Jose Carlos Hernandez,Activo,80,True,False,False,Victor,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2026-03,Oscar Ezpinoza,Activo,60,True,False,False,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2026-03,Cesar Chavez,Activo,80,True,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2026-03,Miguel Angel Ramirez Avalos,Activo,70,True,False,False,Aurelio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2026-03,Ana Paola,Activo,80,True,True,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Ana,2026-03,Jack Joaquín Sabina Zárate Juárez,Activo,70,True,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-03,Adrian Cristobal,Activo,70,False,True,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2026-03,PRE HOGAR,Activo,70,True,False,True,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Antonio,2026-03,Maura Gonzalez,Activo,60,True,False,False,Alan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,52.5%-62%
+Antonio,2026-03,Carlos Nava,Activo,70,True,False,False,Julio Cesar,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,62%-71.5%
+Ana,2026-03,Luis arturo chora lara,Activo,70,True,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-03,Jose Isidro,Activo,70,True,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2026-03,Sergio,Activo,80,False,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-03,Athalia,Activo,90,False,False,True,Cesar Pestaña,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,81%-90.5%
+Antonio,2026-03,Alfonso Ramirez,Activo,80,True,False,False,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,Realizó la prueba,71.5%-81%
+Antonio,2026-04,Carlos León,Activo,70,False,False,False,Pedro Gonzalez,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2026-04,Jesus P,Activo,80,False,False,False,Carlos Mejia,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-04,JUAN DE DIOS NAVARRETE MENDEZ,Activo,70,False,True,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,Anyvia Jazmín Cruz Mendoza,Activo,70,False,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Antonio,2026-04,Christofer,Activo,65,False,False,False,Mauricio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,62%-71.5%
+Ana,2026-04,Simon Vega Aquiahuatl,Activo,70,False,True,False,Vanny,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,HECTOR JIMÉNEZ ALDAY,Activo,70,True,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-04,Jhonathan Bravo,Activo,80,True,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-04,Cristobal,Activo,70,True,False,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Antonio,2026-04,MARÍA DEL CARMEN GRADOS,Activo,60,False,False,False,Aurelio,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Antonio,2026-04,Alejandro Cruz Adabache,Activo,75,False,False,False,Alvaro,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-04,Juan José castellon,Activo,80,False,False,False,Ivan,Ya visito la agencia,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,71.5%-81%
+Antonio,2026-04,Dianarely Marquez,Activo,60,False,False,False,Mauricio,SC,Ya esta en proceso,Ya realizo prueba de manejo,Recibio la atencion,Se asigno en la visita,No realizó la prueba,52.5%-62%
+Ana,2026-04,Dr Julio Cesar,Activo,70,False,False,False,Vanny,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,David Omar Damián González,Activo,80,False,False,False,Victor,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-04,Arturo Delgado García,Activo,50,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-04,Mario Moreno,Activo,80,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-04,Victor Luciano Huerta Acosta Huerta,Activo,80,False,False,False,Pedro,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-04,Roberto Aguilar,Activo,70,False,False,False,Julio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,Rulo Vera,Activo,70,True,False,False,Nayeli,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-04,Rafael Cázares,Activo,80,False,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-04,Antonio Escalona ,Activo,50,True,True,False,Pedro Gonzalez,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-04,Martin Ortuño ,Activo,70,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ignacio,2026-04,Salvador Jasso ,Activo,30,True,False,False,Mauricio,Ya visito la agencia,depende del padres ,Sin registro,Sin registro,Sin registro,Realizó la prueba,24%-33.5%
+Ignacio,2026-04,Luis Pelcastre ,Activo,30,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,24%-33.5%
+Ignacio,2026-04,Santa Garcia ,Activo,50,True,True,False,Carlos Hernandez,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-04,Gamaliel Vega ,Activo,50,True,True,True,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ana,2026-04,Victor Hugo Narvaez,Activo,70,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,EDGAR SILES,Activo,80,False,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-04,JAIRO ROJAS,Activo,70,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,Carlos Perez,Activo,80,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-04,Arnold perales,Activo,70,False,False,False,Carlos Mejia,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,Said Azpeitia Blanco,Activo,70,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ignacio,2026-04,Ricardo Gutierrez,Activo,80,True,False,True,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-04,Jorge de gante,Activo,75,True,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-04,Javier Aguilar ,Activo,75,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-04,Marco Antonio Valencia ,Activo,70,True,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-04,Rocio Cortes ,Activo,50,True,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ana,2026-04,Armando Uribe Torres,Activo,80,True,False,False,Carlos Mejia,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-04,Elias Dias Salgado ,Activo,50,True,True,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ana,2026-04,andres Domínguez,Activo,60,True,False,False,Fatima,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,52.5%-62%
+Ana,2026-04,Rafael Sanchez,Activo,70,True,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-04,Carlos Herrera,Activo,70,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,Daniel Morales Hernández,Activo,70,True,False,False,Julio Cesar,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-04,Jehu Rodriguez,Activo,70,True,False,False,Mauricio,Ya visto la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-04,Juan Pablo Castellanos ,Activo,70,False,False,False,Victor Sanchez,Ya visto la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-04,Pablo Archundia López,Activo,70,True,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Sin registro,2026-04,JOSE LUIS,Activo,70,False,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Sin registro,2026-04,Alejandro Tapia Rueda,Activo,70,False,False,False,Carlos,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Sin registro,2026-04,Angel Perez,Activo,80,False,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Sin registro,2026-04,Julio Lopez,Activo,50,True,False,False,Pedro Gonzalez,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Sin registro,2026-04,Miguel Antonio Fernandez,Activo,70,False,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Sin registro,2026-04,Alejandro Sanchez,Activo,30,False,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,24%-33.5%
+Sin registro,2026-04,Cesar Palafox,Activo,30,False,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,24%-33.5%
+Sin registro,2026-04,HUGO BADILLO,Activo,50,False,False,False,Alvaro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-05,Alan Guerrero ,Activo,75,True,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Larrisa Oidor ,Sin registro,75,False,True,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Jorge Duran ,Activo,75,False,False,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Hector Reyes ,Sin registro,75,True,True,False,Pedro,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Leo Rodríguez,Activo,75,False,False,False,Mauricio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Neftali Lima Sanchez,Activo,75,False,False,False,Julio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Alhdair Bonifacio Ramos ,Activo,75,False,False,False,Victor,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Gary Hernandez ,Activo,75,False,False,False,Vanny,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Edgar Alejandro,Activo,75,False,True,False,Aurelio,Ya visito la agencia,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Celestino Olivares Flores,Activo,75,True,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Margarita Martìnez Mirand,Activo,75,False,True,False,Mauricio,Ya visito la agencia ,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Armando Uribe Torres-,Activo,75,False,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Jose F,Activo,75,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Jesus Flores sanchez,Activo,75,True,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,JOSE IGNACIO,Activo,75,True,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Fernando Duran ,Activo,75,False,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Guillermo Benavides ,Activo,75,True,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Hugo Franco ,Activo,75,True,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Luis Enrique Palomares ,Activo,75,False,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Edgar Alejandro,Activo,75,True,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Eduardo Apodaca Espinosa,Activo,75,False,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Marco xs,Activo,75,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,JOSE SANCHEZ,Activo,75,False,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Roberto Garcia ,Activo,75,False,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Gustavo Melendez,Activo,75,False,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Ruben Lopez ,Activo,75,True,True,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Jaime trejo ,Activo,70,True,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-05,Alma Sanchez ,Activo,75,False,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Carlos Cervantes ,Activo,75,False,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-05,Santa Garcia ,Activo,100,True,True,True,Carlos,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ignacio,2026-05,Raul Miranda ,Activo,100,False,True,True,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,90.5%-100%
+Ana,2026-05,Juan Manuel Hernández,Activo,75,True,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Ramon Castro Vite,Activo,75,True,True,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Ernesto Pachuca,Activo,75,False,True,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Adalyn montiel morales,Activo,75,True,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,EVERT VALVERDE JIMENEZ,Activo,75,True,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Benjamin Sanchez,Activo,75,True,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Quiroz Daniel,Activo,75,True,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Armando Briones ,Activo,50,False,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-05,Salomon Sanchyez,Sin registro,75,False,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Adriana F,Activo,75,True,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Angel Romo,Sin registro,75,True,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Juan Carlos Carreto ,Sin registro,50,False,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-05,Alberto SR,Sin registro,50,False,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-05,Sebastian F,Sin registro,75,True,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-05,Jorge G,Sin registro,75,True,True,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-05,Fernando Zárate ,Activo,70,True,True,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-05,Karla Marquez ,Activo,70,False,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-05,ansony f,Activo,70,True,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-05,Jorge A Quiroz,Activo,70,True,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-05,Michel Taja ,Activo,50,False,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-05,Jairo Rodriguez ,Activo,50,False,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-05,Arturo Lopez ,Activo,50,False,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-05,Yolanda Castellanos ,Activo,100,False,True,True,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,90.5%-100%
+Ana,2026-05,Juan Roque,Activo,100,True,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ignacio,2026-05,Maria guadalupe Serrano ,Activo,100,False,False,True,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,90.5%-100%
+Ana,2026-05,MARCO ANTONIO CHARTUNI,Activo,80,False,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-05,Alexey ,Activo,100,True,True,False,Ana,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ana,2026-05,Brenda Lucero,Activo,100,True,True,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ignacio,2026-06,Francisco Cacho ,Activo,50,False,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-06,Guillermo Hernandez ,Activo,50,True,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-06,Roberto Quintana ,Activo,50,False,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-06,Karla Marquez ,Activo,100,False,False,True,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,90.5%-100%
+Ana,2026-06,Javier Juarez Solano,Activo,70,True,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,Ommar Herrera,Activo,80,True,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-06,Andres Cuevas,Activo,60,False,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-06,Fernanda Lopez,Activo,80,True,True,False,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-06,Jose,Activo,75,False,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-06,Gregorio Tlapanco ,Activo,75,False,False,False,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-06,Ivan Bravo ,Activo,50,True,True,True,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-06,Angelica Briones ,Activo,50,False,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-06,Juan Alberto Vargas ,Activo,50,True,False,False,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ana,2026-06,Moises ,Activo,70,True,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,LUIS CASTILLO,Activo,50,False,False,False,Fer,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-06,Eder Hernandez,Activo,70,False,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-06,Alberto Madrigal,Activo,60,False,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-06,Jesus Adelfo Hernandez Montiel,Activo,80,False,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-06,Eduardo Delón Páez,Activo,80,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-06,LUIS FERNANDO SANCHEZ QUIROZ,Activo,70,True,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,Ommar Herrera,Activo,70,True,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,Jaime Davila Baez,Activo,70,True,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,Jan cx,Activo,70,False,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-06,BERNARDO ALCARAZ MORALES,Activo,80,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-06,Juan Carlos García Hernández,Activo,70,True,False,False,Carlos Mejia,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,Benjamin Mendez,Activo,70,True,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-06,Jesus F,Activo,60,False,False,False,Fer F,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-06,Sergio Flores,Activo,70,False,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-06,Sofia polo,Activo,80,False,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-06,Jorge Canche ,Activo,50,False,False,False,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-06,Octavio Perez ,Activo,70,False,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ignacio,2026-06,Adelina Khalikova ,Activo,70,True,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-06,Roberto Luna Rosas ,Activo,50,True,False,True,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-06,Miguel Martinez ,Activo,50,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-06,Humberto Valencia ,Activo,50,False,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-06,Propescto Orizaba ,Activo,50,False,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-06,Paul Kehrli,Activo,60,False,False,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,52.5%-62%
+Ana,2026-06,Benjamin Mendez,Activo,70,False,False,False,Vanny,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ana,2026-06,Reynaldo Cobos ,Activo,80,True,False,False,Ulises,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-06,Arturo Moreno ,Activo,50,False,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-06,Moises Hdez,Activo,70,False,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,62%-71.5%
+Ignacio,2026-07,Arquimedes Rugerio ,Activo,60,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,52.5%-62%
+Ignacio,2026-07,Victor Manuel Diaz Ortiz ,Activo,60,True,False,False,Cesar Pestaña,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,52.5%-62%
+Ana,2026-07,Margarita Romero Castillo,Activo,100,True,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ana,2026-07,Eder Chavez,Activo,70,True,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-07,Alejandro VELAZQUEZ,Activo,80,True,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-07,Miguel irigoyen,Activo,80,False,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-07,Jose Hernandez Gonzalez,Activo,80,True,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-07,Oswaldo Rueda ,Activo,75,True,True,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-07,Arturo Mendez ,Activo,75,True,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-07,Ruben Vargas,Activo,80,True,True,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-07,Edgar Herrera,Activo,80,True,False,False,Fatima,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-07,luis Hernandez,Activo,50,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-07,Omar Garcia ,Activo,50,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-07,Rosaura Mendez Quechol ,Activo,100,False,False,True,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,90.5%-100%
+Ana,2026-07,Alfonso f,Activo,70,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-07,Lizbeth Garcia,Activo,70,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ana,2026-07,Mike Mora,Activo,90,False,True,False,Alfredo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,81%-90.5%
+Ana,2026-07,Azucena de Jesus machorro arreola,Activo,100,True,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ana,2026-07,Jose F,Activo,80,False,False,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-07,Daniel Padilla,Activo,90,True,True,False,Fernanda,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2026-07,Juan Carazo Juan Carazo,Activo,80,False,False,False,Pedro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-07,MARIBEL BARRON,Activo,90,True,False,False,Mario,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ignacio,2026-07,Bernardo Ayuso ,Sin registro,75,False,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-07,Victor Garcai ,Sin registro,75,False,False,False,Alfredo,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-07,Johancarlo Islas ,Activo,50,False,False,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-07,Margaret Silva Serrano,Activo,80,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-07,Carlos Balderrama ,Activo,50,True,True,True,Mario Varela,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-07,Andrés Netzahuatl ,Activo,50,False,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ana,2026-07,Arat Israel,Activo,75,True,True,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ana,2026-07,Maira Escalante,Activo,80,True,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-07,Zaira Macip ,Activo,50,False,False,False,Aurelio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-07,Julio Hernandez ,Activo,50,True,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,43%-52.5%
+Ignacio,2026-07,Xhunaxhi Vicente ,Activo,100,True,True,True,Ignacio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ignacio,2026-07,DR Jairo Rodriguez Farias ,Activo,100,True,True,True,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,90.5%-100%
+Ana,2026-07,Angel Padilla,Activo,90,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2026-07,Teresa Andrade,Activo,90,True,True,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2026-07,Alejandro ,Activo,90,True,False,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2026-07,Arturo Sanchez,Activo,90,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2026-07,GONZALO RAMIRES SILVA ,Activo,90,True,False,False,Julio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ana,2026-07,Ruben Dario ,Activo,90,True,True,False,Pedro Antonio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ignacio,2026-07,Jesus Torres ,Activo,70,True,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,62%-71.5%
+Ignacio,2026-07,Arquimedes Rugerio ,Activo,75,False,True,False,Nayeli,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ana,2026-07,Jorge Hernandez ,Activo,50,False,False,False,Carlos,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%
+Ignacio,2026-07,Zabdiel Medrano ,Activo,80,True,True,False,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,71.5%-81%
+Ignacio,2026-08,Rosbin Lezama/ Maria ,Activo,80,False,True,False,Julio Cesar,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,71.5%-81%
+Ignacio,2026-08,Josefina Rosete ,Activo,90,True,False,False,Victor,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,Realizó la prueba,81%-90.5%
+Ignacio,2026-08,Alejandra Lezama ,Activo,50,False,False,False,Mauricio,Sin registro,Sin registro,Sin registro,Sin registro,Sin registro,No realizó la prueba,43%-52.5%

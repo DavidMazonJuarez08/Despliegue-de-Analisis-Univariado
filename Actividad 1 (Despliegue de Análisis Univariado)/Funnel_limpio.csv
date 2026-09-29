@@ -1,0 +1,1197 @@
+Mes,Canal,Item,Obj,Real,Acumulado,Obj_al_dia,Cumplimiento,Mes_num
+Enero 2025,GAC Angelopolis,Ventas,30.0,26.0,87.0,30.0,87.0,1
+Enero 2025,GAC Angelopolis,Leads generados,1282.0,1029.0,80.0,1282.0,80.0,1
+Enero 2025,GAC Angelopolis,Leads efectivos,766.0,710.0,93.0,766.0,93.0,1
+Enero 2025,GAC Angelopolis,Cita programada,180.0,189.0,105.0,180.0,105.0,1
+Enero 2025,GAC Angelopolis,Cita efectiva,150.0,109.0,73.0,150.0,73.0,1
+Enero 2025,GAC Angelopolis,Prueba de manejo,102.0,86.0,84.0,102.0,84.0,1
+Enero 2025,GAC Angelopolis,Solicitud de crédito generada,101.0,82.0,81.0,101.0,81.0,1
+Enero 2025,GAC Angelopolis,Solicitud de crédito aprobada,48.0,29.0,60.0,48.0,60.0,1
+Enero 2025,GAC Angelopolis,Cerrador,20.0,19.0,95.0,20.0,95.0,1
+Enero 2025,Plaza Ange,Ventas,4.0,2.0,50.0,4.0,50.0,1
+Enero 2025,Plaza Ange,Leads generados,120.0,110.0,92.0,120.0,92.0,1
+Enero 2025,Plaza Ange,Leads efectivos,111.0,99.0,89.0,111.0,89.0,1
+Enero 2025,Plaza Ange,Cita programada,24.0,41.0,110.0,24.0,110.0,1
+Enero 2025,Plaza Ange,Cita efectiva,20.0,28.0,110.0,20.0,110.0,1
+Enero 2025,Plaza Ange,Prueba de manejo,14.0,14.0,100.0,14.0,100.0,1
+Enero 2025,Plaza Ange,Solicitud de crédito generada,14.0,12.0,86.0,14.0,86.0,1
+Enero 2025,Plaza Ange,Solicitud de crédito aprobada,7.0,5.0,71.0,7.0,71.0,1
+Enero 2025,Plaza Ange,Cerrador,3.0,2.0,67.0,3.0,67.0,1
+Enero 2025,Piso,Ventas,14.0,10.0,71.0,14.0,71.0,1
+Enero 2025,Piso,Leads generados,80.0,76.0,95.0,80.0,95.0,1
+Enero 2025,Piso,Leads efectivos,80.0,71.0,89.0,80.0,89.0,1
+Enero 2025,Piso,Cita programada,80.0,47.0,59.0,80.0,59.0,1
+Enero 2025,Piso,Cita efectiva,74.0,36.0,49.0,74.0,49.0,1
+Enero 2025,Piso,Prueba de manejo,48.0,34.0,71.0,48.0,71.0,1
+Enero 2025,Piso,Solicitud de crédito generada,46.0,34.0,74.0,46.0,74.0,1
+Enero 2025,Piso,Solicitud de crédito aprobada,20.0,13.0,65.0,20.0,65.0,1
+Enero 2025,Piso,Cerrador,7.0,7.0,100.0,7.0,100.0,1
+Enero 2025,Digital,Ventas,8.0,9.0,110.0,8.0,110.0,1
+Enero 2025,Digital,Leads generados,901.0,760.0,84.0,901.0,84.0,1
+Enero 2025,Digital,Leads efectivos,436.0,465.0,107.0,436.0,107.0,1
+Enero 2025,Digital,Cita programada,46.0,74.0,110.0,46.0,110.0,1
+Enero 2025,Digital,Cita efectiva,33.0,37.0,110.0,33.0,110.0,1
+Enero 2025,Digital,Prueba de manejo,23.0,22.0,96.0,23.0,96.0,1
+Enero 2025,Digital,Solicitud de crédito generada,25.0,21.0,84.0,25.0,84.0,1
+Enero 2025,Digital,Solicitud de crédito aprobada,14.0,6.0,43.0,14.0,43.0,1
+Enero 2025,Digital,Cerrador,5.0,7.0,110.0,5.0,110.0,1
+Enero 2025,Galerias Tlaxcala,Ventas,4.0,3.0,75.0,4.0,75.0,1
+Enero 2025,Galerias Tlaxcala,Leads generados,100.0,46.0,46.0,100.0,46.0,1
+Enero 2025,Galerias Tlaxcala,Leads efectivos,80.0,43.0,54.0,80.0,54.0,1
+Enero 2025,Galerias Tlaxcala,Cita programada,24.0,9.0,38.0,24.0,38.0,1
+Enero 2025,Galerias Tlaxcala,Cita efectiva,16.0,5.0,31.0,16.0,31.0,1
+Enero 2025,Galerias Tlaxcala,Prueba de manejo,13.0,9.0,69.0,13.0,69.0,1
+Enero 2025,Galerias Tlaxcala,Solicitud de crédito generada,12.0,9.0,75.0,12.0,75.0,1
+Enero 2025,Galerias Tlaxcala,Solicitud de crédito aprobada,6.0,3.0,50.0,6.0,50.0,1
+Enero 2025,Galerias Tlaxcala,Cerrador,4.0,2.0,50.0,4.0,50.0,1
+Enero 2025,Otros,Ventas,1.0,2.0,110.0,1.0,110.0,1
+Enero 2025,Otros,Leads generados,81.0,37.0,46.0,81.0,46.0,1
+Enero 2025,Otros,Leads efectivos,59.0,32.0,54.0,59.0,54.0,1
+Enero 2025,Otros,Cita programada,6.0,18.0,110.0,6.0,110.0,1
+Enero 2025,Otros,Cita efectiva,7.0,3.0,43.0,7.0,43.0,1
+Enero 2025,Otros,Prueba de manejo,4.0,7.0,110.0,4.0,110.0,1
+Enero 2025,Otros,Solicitud de crédito generada,4.0,6.0,110.0,4.0,110.0,1
+Enero 2025,Otros,Solicitud de crédito aprobada,1.0,2.0,110.0,1.0,110.0,1
+Enero 2025,Otros,Cerrador,1.0,1.0,100.0,1.0,100.0,1
+Enero 2025,Plaza Moraledas,Ventas,3.0,0.0,0.0,3.0,0.0,1
+Enero 2025,Plaza Moraledas,Leads generados,120.0,13.0,11.0,120.0,11.0,1
+Enero 2025,Plaza Moraledas,Leads efectivos,80.0,13.0,16.0,80.0,16.0,1
+Enero 2025,Plaza Moraledas,Cita programada,50.0,1.0,2.0,50.0,2.0,1
+Enero 2025,Plaza Moraledas,Cita efectiva,40.0,1.0,3.0,40.0,3.0,1
+Enero 2025,Plaza Moraledas,Prueba de manejo,25.0,3.0,12.0,25.0,12.0,1
+Enero 2025,Plaza Moraledas,Solicitud de crédito generada,15.0,1.0,7.0,15.0,7.0,1
+Enero 2025,Plaza Moraledas,Solicitud de crédito aprobada,8.0,1.0,13.0,8.0,13.0,1
+Enero 2025,Plaza Moraledas,Cerrador,3.0,0.0,0.0,3.0,0.0,1
+Febrero 2025,GAC Angelopolis,Ventas,30.0,20.0,67.0,30.0,67.0,2
+Febrero 2025,GAC Angelopolis,Leads generados,757.0,537.0,71.0,463.0,110.0,2
+Febrero 2025,GAC Angelopolis,Leads efectivos,501.0,446.0,89.0,306.0,110.0,2
+Febrero 2025,GAC Angelopolis,Cita programada,214.0,117.0,55.0,130.0,90.0,2
+Febrero 2025,GAC Angelopolis,Cita efectiva,149.0,101.0,68.0,90.0,110.0,2
+Febrero 2025,GAC Angelopolis,Prueba de manejo,103.0,97.0,94.0,62.0,110.0,2
+Febrero 2025,GAC Angelopolis,Solicitud de crédito generada,92.0,75.0,82.0,55.0,110.0,2
+Febrero 2025,GAC Angelopolis,Solicitud de crédito aprobada,46.0,27.0,59.0,27.0,99.0,2
+Febrero 2025,GAC Angelopolis,Formalizado,26.0,11.0,42.0,15.0,74.0,2
+Febrero 2025,Plaza Ange,Ventas,4.0,1.0,25.0,4.0,25.0,2
+Febrero 2025,Plaza Ange,Leads generados,180.0,90.0,50.0,180.0,50.0,2
+Febrero 2025,Plaza Ange,Leads efectivos,99.0,82.0,83.0,99.0,83.0,2
+Febrero 2025,Plaza Ange,Cita programada,24.0,18.0,75.0,24.0,75.0,2
+Febrero 2025,Plaza Ange,Cita efectiva,20.0,14.0,70.0,20.0,70.0,2
+Febrero 2025,Plaza Ange,Prueba de manejo,14.0,14.0,100.0,14.0,100.0,2
+Febrero 2025,Plaza Ange,Solicitud de crédito generada,14.0,13.0,93.0,14.0,93.0,2
+Febrero 2025,Plaza Ange,Solicitud de crédito aprobada,7.0,3.0,43.0,7.0,43.0,2
+Febrero 2025,Plaza Ange,Formalizado,5.0,1.0,20.0,5.0,20.0,2
+Febrero 2025,Piso,Ventas,12.0,11.0,92.0,12.0,92.0,2
+Febrero 2025,Piso,Leads generados,80.0,64.0,80.0,80.0,80.0,2
+Febrero 2025,Piso,Leads efectivos,80.0,61.0,76.0,80.0,76.0,2
+Febrero 2025,Piso,Cita programada,80.0,34.0,43.0,80.0,43.0,2
+Febrero 2025,Piso,Cita efectiva,74.0,31.0,42.0,74.0,42.0,2
+Febrero 2025,Piso,Prueba de manejo,48.0,31.0,65.0,48.0,65.0,2
+Febrero 2025,Piso,Solicitud de crédito generada,40.0,23.0,58.0,40.0,58.0,2
+Febrero 2025,Piso,Solicitud de crédito aprobada,17.0,14.0,82.0,17.0,82.0,2
+Febrero 2025,Piso,Formalizado,8.0,7.0,88.0,8.0,88.0,2
+Febrero 2025,Digital,Ventas,10.0,4.0,40.0,10.0,40.0,2
+Febrero 2025,Digital,Leads generados,296.0,210.0,71.0,296.0,71.0,2
+Febrero 2025,Digital,Leads efectivos,213.0,141.0,66.0,213.0,66.0,2
+Febrero 2025,Digital,Cita programada,40.0,34.0,85.0,40.0,85.0,2
+Febrero 2025,Digital,Cita efectiva,33.0,27.0,82.0,33.0,82.0,2
+Febrero 2025,Digital,Prueba de manejo,23.0,24.0,104.0,23.0,104.0,2
+Febrero 2025,Digital,Solicitud de crédito generada,20.0,28.0,110.0,20.0,110.0,2
+Febrero 2025,Digital,Solicitud de crédito aprobada,14.0,6.0,43.0,14.0,43.0,2
+Febrero 2025,Digital,Formalizado,7.0,3.0,43.0,7.0,43.0,2
+Febrero 2025,Gran Patio,Ventas,4.0,0.0,0.0,4.0,0.0,2
+Febrero 2025,Gran Patio,Leads generados,120.0,70.0,58.0,120.0,58.0,2
+Febrero 2025,Gran Patio,Leads efectivos,80.0,68.0,85.0,80.0,85.0,2
+Febrero 2025,Gran Patio,Cita programada,24.0,11.0,46.0,24.0,46.0,2
+Febrero 2025,Gran Patio,Cita efectiva,16.0,9.0,56.0,16.0,56.0,2
+Febrero 2025,Gran Patio,Prueba de manejo,13.0,6.0,46.0,13.0,46.0,2
+Febrero 2025,Gran Patio,Solicitud de crédito generada,12.0,3.0,25.0,12.0,25.0,2
+Febrero 2025,Gran Patio,Solicitud de crédito aprobada,6.0,0.0,0.0,6.0,0.0,2
+Febrero 2025,Gran Patio,Formalizado,4.0,0.0,0.0,4.0,0.0,2
+Febrero 2025,Otros,Ventas,3.0,4.0,110.0,3.0,110.0,2
+Febrero 2025,Otros,Leads generados,81.0,15.0,19.0,81.0,19.0,2
+Febrero 2025,Otros,Leads efectivos,29.0,13.0,45.0,29.0,45.0,2
+Febrero 2025,Otros,Cita programada,6.0,5.0,83.0,6.0,83.0,2
+Febrero 2025,Otros,Cita efectiva,6.0,5.0,83.0,6.0,83.0,2
+Febrero 2025,Otros,Prueba de manejo,5.0,6.0,110.0,5.0,110.0,2
+Febrero 2025,Otros,Solicitud de crédito generada,6.0,4.0,67.0,6.0,67.0,2
+Febrero 2025,Otros,Solicitud de crédito aprobada,2.0,4.0,110.0,2.0,110.0,2
+Febrero 2025,Otros,Formalizado,2.0,0.0,0.0,2.0,0.0,2
+Febrero 2025,Estrategia de Prospeccion,Ventas,3.0,0.0,0.0,0.0,0.0,2
+Febrero 2025,Estrategia de Prospeccion,Leads generados,150.0,88.0,59.0,15.0,110.0,2
+Febrero 2025,Estrategia de Prospeccion,Leads efectivos,80.0,81.0,101.0,8.0,110.0,2
+Febrero 2025,Estrategia de Prospeccion,Cita programada,35.0,15.0,43.0,3.0,110.0,2
+Febrero 2025,Estrategia de Prospeccion,Cita efectiva,40.0,15.0,38.0,3.0,110.0,2
+Febrero 2025,Estrategia de Prospeccion,Prueba de manejo,25.0,16.0,64.0,2.0,110.0,2
+Febrero 2025,Estrategia de Prospeccion,Solicitud de crédito generada,13.0,4.0,31.0,0.0,110.0,2
+Febrero 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,8.0,0.0,0.0,0.0,0.0,2
+Febrero 2025,Estrategia de Prospeccion,Formalizado,3.0,0.0,0.0,-1.0,0.0,2
+Marzo 2025,GAC Angelopolis,Ventas,30.0,30.0,100.0,30.0,100.0,3
+Marzo 2025,GAC Angelopolis,Leads generados,757.0,925.0,110.0,757.0,110.0,3
+Marzo 2025,GAC Angelopolis,Leads efectivos,501.0,731.0,110.0,501.0,110.0,3
+Marzo 2025,GAC Angelopolis,Cita programada,214.0,181.0,85.0,214.0,85.0,3
+Marzo 2025,GAC Angelopolis,Cita efectiva,149.0,140.0,94.0,149.0,94.0,3
+Marzo 2025,GAC Angelopolis,Prueba de manejo,103.0,77.0,75.0,103.0,75.0,3
+Marzo 2025,GAC Angelopolis,Solicitud de crédito generada,92.0,92.0,100.0,92.0,100.0,3
+Marzo 2025,GAC Angelopolis,Solicitud de crédito aprobada,46.0,30.0,65.0,46.0,65.0,3
+Marzo 2025,GAC Angelopolis,Formalizado,26.0,18.0,69.0,26.0,69.0,3
+Marzo 2025,Plaza Ange,Ventas,4.0,2.0,50.0,4.0,50.0,3
+Marzo 2025,Plaza Ange,Leads generados,180.0,162.0,90.0,180.0,90.0,3
+Marzo 2025,Plaza Ange,Leads efectivos,99.0,135.0,110.0,99.0,110.0,3
+Marzo 2025,Plaza Ange,Cita programada,24.0,20.0,83.0,24.0,83.0,3
+Marzo 2025,Plaza Ange,Cita efectiva,20.0,15.0,75.0,20.0,75.0,3
+Marzo 2025,Plaza Ange,Prueba de manejo,14.0,12.0,86.0,14.0,86.0,3
+Marzo 2025,Plaza Ange,Solicitud de crédito generada,14.0,16.0,110.0,14.0,110.0,3
+Marzo 2025,Plaza Ange,Solicitud de crédito aprobada,7.0,4.0,57.0,7.0,57.0,3
+Marzo 2025,Plaza Ange,Formalizado,5.0,2.0,40.0,5.0,40.0,3
+Marzo 2025,Piso,Ventas,14.0,9.0,64.0,14.0,64.0,3
+Marzo 2025,Piso,Leads generados,80.0,80.0,100.0,80.0,100.0,3
+Marzo 2025,Piso,Leads efectivos,80.0,80.0,100.0,80.0,100.0,3
+Marzo 2025,Piso,Cita programada,80.0,80.0,100.0,80.0,100.0,3
+Marzo 2025,Piso,Cita efectiva,74.0,80.0,108.0,74.0,108.0,3
+Marzo 2025,Piso,Prueba de manejo,48.0,32.0,67.0,48.0,67.0,3
+Marzo 2025,Piso,Solicitud de crédito generada,40.0,28.0,70.0,40.0,70.0,3
+Marzo 2025,Piso,Solicitud de crédito aprobada,17.0,8.0,47.0,17.0,47.0,3
+Marzo 2025,Piso,Formalizado,8.0,6.0,75.0,8.0,75.0,3
+Marzo 2025,Digital,Ventas,8.0,12.0,110.0,8.0,110.0,3
+Marzo 2025,Digital,Leads generados,450.0,491.0,109.0,450.0,109.0,3
+Marzo 2025,Digital,Leads efectivos,312.0,344.0,110.0,312.0,110.0,3
+Marzo 2025,Digital,Cita programada,40.0,57.0,110.0,40.0,110.0,3
+Marzo 2025,Digital,Cita efectiva,33.0,26.0,79.0,33.0,79.0,3
+Marzo 2025,Digital,Prueba de manejo,23.0,16.0,70.0,23.0,70.0,3
+Marzo 2025,Digital,Solicitud de crédito generada,20.0,13.0,65.0,20.0,65.0,3
+Marzo 2025,Digital,Solicitud de crédito aprobada,14.0,10.0,71.0,14.0,71.0,3
+Marzo 2025,Digital,Formalizado,7.0,8.0,110.0,7.0,110.0,3
+Marzo 2025,Gran Patio,Ventas,3.0,1.0,33.0,3.0,33.0,3
+Marzo 2025,Gran Patio,Leads generados,120.0,110.0,92.0,120.0,92.0,3
+Marzo 2025,Gran Patio,Leads efectivos,80.0,105.0,110.0,80.0,110.0,3
+Marzo 2025,Gran Patio,Cita programada,24.0,12.0,50.0,24.0,50.0,3
+Marzo 2025,Gran Patio,Cita efectiva,16.0,10.0,63.0,16.0,63.0,3
+Marzo 2025,Gran Patio,Prueba de manejo,13.0,8.0,62.0,13.0,62.0,3
+Marzo 2025,Gran Patio,Solicitud de crédito generada,12.0,11.0,92.0,12.0,92.0,3
+Marzo 2025,Gran Patio,Solicitud de crédito aprobada,6.0,1.0,17.0,6.0,17.0,3
+Marzo 2025,Gran Patio,Formalizado,4.0,1.0,25.0,4.0,25.0,3
+Marzo 2025,Otros,Ventas,0.0,6.0,0.0,0.0,0.0,3
+Marzo 2025,Otros,Leads generados,81.0,47.0,97.0,49.0,97.0,3
+Marzo 2025,Otros,Leads efectivos,29.0,37.0,110.0,17.0,110.0,3
+Marzo 2025,Otros,Cita programada,6.0,2.0,75.0,3.0,75.0,3
+Marzo 2025,Otros,Cita efectiva,6.0,2.0,75.0,3.0,75.0,3
+Marzo 2025,Otros,Prueba de manejo,6.0,4.0,110.0,3.0,110.0,3
+Marzo 2025,Otros,Solicitud de crédito generada,6.0,21.0,110.0,3.0,110.0,3
+Marzo 2025,Otros,Solicitud de crédito aprobada,2.0,6.0,110.0,0.0,110.0,3
+Marzo 2025,Otros,Formalizado,2.0,1.0,110.0,0.0,110.0,3
+Marzo 2025,Estrategia de Prospeccion,Ventas,3.0,0.0,0.0,3.0,0.0,3
+Marzo 2025,Estrategia de Prospeccion,Leads generados,150.0,35.0,23.0,150.0,23.0,3
+Marzo 2025,Estrategia de Prospeccion,Leads efectivos,80.0,30.0,38.0,80.0,38.0,3
+Marzo 2025,Estrategia de Prospeccion,Cita programada,35.0,10.0,29.0,35.0,29.0,3
+Marzo 2025,Estrategia de Prospeccion,Cita efectiva,40.0,7.0,18.0,40.0,18.0,3
+Marzo 2025,Estrategia de Prospeccion,Prueba de manejo,25.0,5.0,20.0,25.0,20.0,3
+Marzo 2025,Estrategia de Prospeccion,Solicitud de crédito generada,13.0,3.0,23.0,13.0,23.0,3
+Marzo 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,8.0,1.0,13.0,8.0,13.0,3
+Marzo 2025,Estrategia de Prospeccion,Formalizado,3.0,0.0,0.0,3.0,0.0,3
+Abril 2025,GAC Angelopolis,Ventas,30.0,30.0,100.0,30.0,100.0,4
+Abril 2025,GAC Angelopolis,Leads generados,757.0,1149.0,110.0,757.0,110.0,4
+Abril 2025,GAC Angelopolis,Leads efectivos,501.0,873.0,110.0,501.0,110.0,4
+Abril 2025,GAC Angelopolis,Cita programada,214.0,174.0,81.0,214.0,81.0,4
+Abril 2025,GAC Angelopolis,Cita efectiva,149.0,114.0,77.0,149.0,77.0,4
+Abril 2025,GAC Angelopolis,Prueba de manejo,100.0,81.0,81.0,100.0,81.0,4
+Abril 2025,GAC Angelopolis,Solicitud de crédito generada,100.0,59.0,59.0,100.0,59.0,4
+Abril 2025,GAC Angelopolis,Solicitud de crédito aprobada,46.0,35.0,76.0,46.0,76.0,4
+Abril 2025,GAC Angelopolis,Formalizado,26.0,17.0,65.0,26.0,65.0,4
+Abril 2025,Plaza Ange,Ventas,4.0,4.0,100.0,4.0,100.0,4
+Abril 2025,Plaza Ange,Leads generados,180.0,188.0,104.0,180.0,104.0,4
+Abril 2025,Plaza Ange,Leads efectivos,99.0,166.0,110.0,99.0,110.0,4
+Abril 2025,Plaza Ange,Cita programada,24.0,34.0,110.0,24.0,110.0,4
+Abril 2025,Plaza Ange,Cita efectiva,20.0,16.0,80.0,20.0,80.0,4
+Abril 2025,Plaza Ange,Prueba de manejo,14.0,16.0,110.0,14.0,110.0,4
+Abril 2025,Plaza Ange,Solicitud de crédito generada,14.0,10.0,71.0,14.0,71.0,4
+Abril 2025,Plaza Ange,Solicitud de crédito aprobada,7.0,6.0,86.0,7.0,86.0,4
+Abril 2025,Plaza Ange,Formalizado,5.0,4.0,80.0,5.0,80.0,4
+Abril 2025,Piso,Ventas,14.0,13.0,93.0,14.0,93.0,4
+Abril 2025,Piso,Leads generados,80.0,43.0,54.0,80.0,54.0,4
+Abril 2025,Piso,Leads efectivos,80.0,43.0,54.0,80.0,54.0,4
+Abril 2025,Piso,Cita programada,80.0,43.0,54.0,80.0,54.0,4
+Abril 2025,Piso,Cita efectiva,80.0,43.0,54.0,80.0,54.0,4
+Abril 2025,Piso,Prueba de manejo,48.0,28.0,58.0,48.0,58.0,4
+Abril 2025,Piso,Solicitud de crédito generada,40.0,13.0,33.0,40.0,33.0,4
+Abril 2025,Piso,Solicitud de crédito aprobada,17.0,11.0,65.0,17.0,65.0,4
+Abril 2025,Piso,Formalizado,8.0,8.0,100.0,8.0,100.0,4
+Abril 2025,Digital,Ventas,10.0,5.0,50.0,10.0,50.0,4
+Abril 2025,Digital,Leads generados,680.0,749.0,110.0,680.0,110.0,4
+Abril 2025,Digital,Leads efectivos,410.0,500.0,110.0,410.0,110.0,4
+Abril 2025,Digital,Cita programada,40.0,70.0,110.0,40.0,110.0,4
+Abril 2025,Digital,Cita efectiva,33.0,30.0,91.0,33.0,91.0,4
+Abril 2025,Digital,Prueba de manejo,23.0,17.0,74.0,23.0,74.0,4
+Abril 2025,Digital,Solicitud de crédito generada,20.0,6.0,30.0,20.0,30.0,4
+Abril 2025,Digital,Solicitud de crédito aprobada,14.0,5.0,36.0,14.0,36.0,4
+Abril 2025,Digital,Formalizado,7.0,2.0,29.0,7.0,29.0,4
+Abril 2025,Gran Patio,Ventas,4.0,4.0,100.0,4.0,100.0,4
+Abril 2025,Gran Patio,Leads generados,120.0,113.0,94.0,120.0,94.0,4
+Abril 2025,Gran Patio,Leads efectivos,80.0,110.0,110.0,80.0,110.0,4
+Abril 2025,Gran Patio,Cita programada,24.0,15.0,63.0,24.0,63.0,4
+Abril 2025,Gran Patio,Cita efectiva,16.0,13.0,81.0,16.0,81.0,4
+Abril 2025,Gran Patio,Prueba de manejo,13.0,8.0,62.0,13.0,62.0,4
+Abril 2025,Gran Patio,Solicitud de crédito generada,12.0,9.0,75.0,12.0,75.0,4
+Abril 2025,Gran Patio,Solicitud de crédito aprobada,6.0,5.0,83.0,6.0,83.0,4
+Abril 2025,Gran Patio,Formalizado,4.0,2.0,50.0,4.0,50.0,4
+Abril 2025,Otros,Ventas,2.0,2.0,100.0,0.0,100.0,4
+Abril 2025,Otros,Leads generados,81.0,28.0,35.0,49.0,35.0,4
+Abril 2025,Otros,Leads efectivos,29.0,27.0,93.0,17.0,93.0,4
+Abril 2025,Otros,Cita programada,6.0,11.0,183.0,3.0,183.0,4
+Abril 2025,Otros,Cita efectiva,6.0,11.0,183.0,3.0,183.0,4
+Abril 2025,Otros,Prueba de manejo,6.0,1.0,17.0,3.0,17.0,4
+Abril 2025,Otros,Solicitud de crédito generada,6.0,16.0,267.0,3.0,267.0,4
+Abril 2025,Otros,Solicitud de crédito aprobada,2.0,6.0,300.0,0.0,300.0,4
+Abril 2025,Otros,Formalizado,2.0,0.0,0.0,0.0,0.0,4
+Abril 2025,Estrategia de Prospeccion,Ventas,3.0,2.0,67.0,3.0,67.0,4
+Abril 2025,Estrategia de Prospeccion,Leads generados,150.0,28.0,19.0,150.0,19.0,4
+Abril 2025,Estrategia de Prospeccion,Leads efectivos,80.0,27.0,34.0,80.0,34.0,4
+Abril 2025,Estrategia de Prospeccion,Cita programada,40.0,1.0,3.0,40.0,3.0,4
+Abril 2025,Estrategia de Prospeccion,Cita efectiva,35.0,1.0,3.0,35.0,3.0,4
+Abril 2025,Estrategia de Prospeccion,Prueba de manejo,25.0,0.0,0.0,25.0,0.0,4
+Abril 2025,Estrategia de Prospeccion,Solicitud de crédito generada,13.0,5.0,38.0,13.0,38.0,4
+Abril 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,8.0,2.0,25.0,8.0,25.0,4
+Abril 2025,Estrategia de Prospeccion,Formalizado,3.0,1.0,33.0,3.0,33.0,4
+Mayo 2025,GAC Angelopolis,Ventas,41.0,34.0,83.0,41.0,83.0,5
+Mayo 2025,GAC Angelopolis,Leads generados,970.0,815.0,84.0,970.0,84.0,5
+Mayo 2025,GAC Angelopolis,Leads efectivos,789.0,689.0,87.0,789.0,87.0,5
+Mayo 2025,GAC Angelopolis,Cita programada,214.0,166.0,78.0,214.0,78.0,5
+Mayo 2025,GAC Angelopolis,Cita efectiva,160.0,157.0,98.0,160.0,98.0,5
+Mayo 2025,GAC Angelopolis,Prueba de manejo,100.0,121.0,110.0,100.0,110.0,5
+Mayo 2025,GAC Angelopolis,Solicitud de crédito generada,70.0,76.0,109.0,70.0,109.0,5
+Mayo 2025,GAC Angelopolis,Solicitud de crédito aprobada,42.0,40.0,95.0,42.0,95.0,5
+Mayo 2025,GAC Angelopolis,Formalizado,33.0,19.0,58.0,33.0,58.0,5
+Mayo 2025,Plaza Ange,Ventas,7.0,3.0,43.0,7.0,43.0,5
+Mayo 2025,Plaza Ange,Leads generados,190.0,157.0,83.0,190.0,83.0,5
+Mayo 2025,Plaza Ange,Leads efectivos,140.0,143.0,102.0,140.0,102.0,5
+Mayo 2025,Plaza Ange,Cita programada,50.0,15.0,30.0,50.0,30.0,5
+Mayo 2025,Plaza Ange,Cita efectiva,,14.0,40.0,35.0,40.0,5
+Mayo 2025,Plaza Ange,Prueba de manejo,28.0,14.0,50.0,28.0,50.0,5
+Mayo 2025,Plaza Ange,Solicitud de crédito generada,16.0,9.0,56.0,16.0,56.0,5
+Mayo 2025,Plaza Ange,Solicitud de crédito aprobada,11.0,6.0,55.0,11.0,55.0,5
+Mayo 2025,Plaza Ange,Formalizado,6.0,3.0,50.0,6.0,50.0,5
+Mayo 2025,Piso,Ventas,17.0,12.0,71.0,17.0,71.0,5
+Mayo 2025,Piso,Leads generados,80.0,65.0,81.0,80.0,81.0,5
+Mayo 2025,Piso,Leads efectivos,80.0,65.0,81.0,80.0,81.0,5
+Mayo 2025,Piso,Cita programada,80.0,65.0,81.0,80.0,81.0,5
+Mayo 2025,Piso,Cita efectiva,80.0,65.0,81.0,80.0,81.0,5
+Mayo 2025,Piso,Prueba de manejo,48.0,34.0,71.0,48.0,71.0,5
+Mayo 2025,Piso,Solicitud de crédito generada,30.0,16.0,53.0,30.0,53.0,5
+Mayo 2025,Piso,Solicitud de crédito aprobada,20.0,6.0,30.0,20.0,30.0,5
+Mayo 2025,Piso,Formalizado,14.0,3.0,21.0,14.0,21.0,5
+Mayo 2025,Digital,Ventas,13.0,9.0,69.0,13.0,69.0,5
+Mayo 2025,Digital,Leads generados,500.0,361.0,72.0,500.0,72.0,5
+Mayo 2025,Digital,Leads efectivos,410.0,273.0,67.0,410.0,67.0,5
+Mayo 2025,Digital,Cita programada,100.0,37.0,37.0,100.0,37.0,5
+Mayo 2025,Digital,Cita efectiva,60.0,32.0,53.0,60.0,53.0,5
+Mayo 2025,Digital,Prueba de manejo,30.0,26.0,87.0,30.0,87.0,5
+Mayo 2025,Digital,Solicitud de crédito generada,25.0,14.0,56.0,25.0,56.0,5
+Mayo 2025,Digital,Solicitud de crédito aprobada,20.0,10.0,50.0,20.0,50.0,5
+Mayo 2025,Digital,Formalizado,11.0,5.0,45.0,11.0,45.0,5
+Mayo 2025,Gran Patio,Ventas,5.0,3.0,40.0,5.0,40.0,5
+Mayo 2025,Gran Patio,Leads generados,120.0,114.0,95.0,120.0,95.0,5
+Mayo 2025,Gran Patio,Leads efectivos,100.0,103.0,103.0,100.0,103.0,5
+Mayo 2025,Gran Patio,Cita programada,25.0,14.0,56.0,25.0,56.0,5
+Mayo 2025,Gran Patio,Cita efectiva,20.0,13.0,65.0,20.0,65.0,5
+Mayo 2025,Gran Patio,Prueba de manejo,15.0,9.0,60.0,15.0,60.0,5
+Mayo 2025,Gran Patio,Solicitud de crédito generada,12.0,14.0,110.0,12.0,110.0,5
+Mayo 2025,Gran Patio,Solicitud de crédito aprobada,8.0,6.0,75.0,8.0,75.0,5
+Mayo 2025,Gran Patio,Formalizado,5.0,3.0,60.0,5.0,60.0,5
+Mayo 2025,Otros,Ventas,0.0,6.0,100.0,0.0,100.0,5
+Mayo 2025,Otros,Leads generados,20.0,37.0,110.0,20.0,110.0,5
+Mayo 2025,Otros,Leads efectivos,20.0,29.0,110.0,20.0,110.0,5
+Mayo 2025,Otros,Cita programada,6.0,3.0,50.0,6.0,50.0,5
+Mayo 2025,Otros,Cita efectiva,6.0,2.0,33.0,6.0,33.0,5
+Mayo 2025,Otros,Prueba de manejo,6.0,7.0,110.0,6.0,110.0,5
+Mayo 2025,Otros,Solicitud de crédito generada,6.0,20.0,110.0,6.0,110.0,5
+Mayo 2025,Otros,Solicitud de crédito aprobada,2.0,10.0,110.0,2.0,110.0,5
+Mayo 2025,Otros,Formalizado,2.0,4.0,110.0,2.0,110.0,5
+Mayo 2025,Estrategia de Prospeccion,Ventas,2.0,2.0,100.0,2.0,100.0,5
+Mayo 2025,Estrategia de Prospeccion,Leads generados,80.0,81.0,101.0,80.0,101.0,5
+Mayo 2025,Estrategia de Prospeccion,Leads efectivos,80.0,76.0,95.0,80.0,95.0,5
+Mayo 2025,Estrategia de Prospeccion,Cita programada,40.0,32.0,80.0,40.0,80.0,5
+Mayo 2025,Estrategia de Prospeccion,Cita efectiva,35.0,31.0,89.0,35.0,89.0,5
+Mayo 2025,Estrategia de Prospeccion,Prueba de manejo,10.0,31.0,110.0,10.0,110.0,5
+Mayo 2025,Estrategia de Prospeccion,Solicitud de crédito generada,7.0,3.0,43.0,7.0,43.0,5
+Mayo 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,4.0,2.0,50.0,4.0,50.0,5
+Mayo 2025,Estrategia de Prospeccion,Formalizado,2.0,1.0,50.0,2.0,50.0,5
+Junio 2025,GAC Angelopolis,Ventas,40.0,40.0,100.0,40.0,100.0,6
+Junio 2025,GAC Angelopolis,Leads generados,970.0,1083.0,110.0,970.0,110.0,6
+Junio 2025,GAC Angelopolis,Leads efectivos,789.0,694.0,88.0,789.0,88.0,6
+Junio 2025,GAC Angelopolis,Cita programada,214.0,226.0,106.0,214.0,106.0,6
+Junio 2025,GAC Angelopolis,Cita efectiva,160.0,177.0,110.0,160.0,110.0,6
+Junio 2025,GAC Angelopolis,Prueba de manejo,100.0,111.0,110.0,100.0,110.0,6
+Junio 2025,GAC Angelopolis,Solicitud de crédito generada,90.0,97.0,108.0,90.0,108.0,6
+Junio 2025,GAC Angelopolis,Solicitud de crédito aprobada,42.0,46.0,110.0,42.0,110.0,6
+Junio 2025,GAC Angelopolis,Formalizado,33.0,25.0,76.0,33.0,76.0,6
+Junio 2025,Plaza Ange,Ventas,7.0,9.0,110.0,7.0,110.0,6
+Junio 2025,Plaza Ange,Leads generados,190.0,259.0,110.0,190.0,110.0,6
+Junio 2025,Plaza Ange,Leads efectivos,140.0,200.0,110.0,140.0,110.0,6
+Junio 2025,Plaza Ange,Cita programada,50.0,51.0,102.0,50.0,102.0,6
+Junio 2025,Plaza Ange,Cita efectiva,35.0,39.0,110.0,35.0,110.0,6
+Junio 2025,Plaza Ange,Prueba de manejo,28.0,35.0,110.0,28.0,110.0,6
+Junio 2025,Plaza Ange,Solicitud de crédito generada,16.0,23.0,110.0,16.0,110.0,6
+Junio 2025,Plaza Ange,Solicitud de crédito aprobada,11.0,10.0,91.0,11.0,91.0,6
+Junio 2025,Plaza Ange,Formalizado,6.0,5.0,83.0,6.0,83.0,6
+Junio 2025,Piso,Ventas,17.0,10.0,59.0,17.0,59.0,6
+Junio 2025,Piso,Leads generados,80.0,59.0,74.0,80.0,74.0,6
+Junio 2025,Piso,Leads efectivos,80.0,59.0,74.0,80.0,74.0,6
+Junio 2025,Piso,Cita programada,80.0,59.0,74.0,80.0,74.0,6
+Junio 2025,Piso,Cita efectiva,80.0,59.0,74.0,80.0,74.0,6
+Junio 2025,Piso,Prueba de manejo,48.0,31.0,65.0,48.0,65.0,6
+Junio 2025,Piso,Solicitud de crédito generada,30.0,13.0,43.0,30.0,43.0,6
+Junio 2025,Piso,Solicitud de crédito aprobada,20.0,9.0,45.0,20.0,45.0,6
+Junio 2025,Piso,Formalizado,14.0,6.0,43.0,14.0,43.0,6
+Junio 2025,Digital,Ventas,13.0,12.0,92.0,13.0,92.0,6
+Junio 2025,Digital,Leads generados,500.0,576.0,110.0,500.0,110.0,6
+Junio 2025,Digital,Leads efectivos,410.0,292.0,71.0,410.0,71.0,6
+Junio 2025,Digital,Cita programada,100.0,69.0,69.0,100.0,69.0,6
+Junio 2025,Digital,Cita efectiva,60.0,34.0,57.0,60.0,57.0,6
+Junio 2025,Digital,Prueba de manejo,30.0,21.0,70.0,30.0,70.0,6
+Junio 2025,Digital,Solicitud de crédito generada,25.0,19.0,76.0,25.0,76.0,6
+Junio 2025,Digital,Solicitud de crédito aprobada,20.0,10.0,50.0,20.0,50.0,6
+Junio 2025,Digital,Formalizado,11.0,5.0,45.0,11.0,45.0,6
+Junio 2025,Gran Patio,Ventas,5.0,4.0,80.0,5.0,80.0,6
+Junio 2025,Gran Patio,Leads generados,120.0,96.0,80.0,120.0,80.0,6
+Junio 2025,Gran Patio,Leads efectivos,100.0,80.0,80.0,100.0,80.0,6
+Junio 2025,Gran Patio,Cita programada,25.0,16.0,64.0,25.0,64.0,6
+Junio 2025,Gran Patio,Cita efectiva,20.0,21.0,105.0,20.0,105.0,6
+Junio 2025,Gran Patio,Prueba de manejo,15.0,10.0,67.0,15.0,67.0,6
+Junio 2025,Gran Patio,Solicitud de crédito generada,12.0,12.0,100.0,12.0,100.0,6
+Junio 2025,Gran Patio,Solicitud de crédito aprobada,8.0,6.0,75.0,8.0,75.0,6
+Junio 2025,Gran Patio,Formalizado,5.0,4.0,80.0,5.0,80.0,6
+Junio 2025,Otros,Ventas,5.0,5.0,100.0,5.0,100.0,6
+Junio 2025,Otros,Leads generados,20.0,53.0,110.0,53.0,110.0,6
+Junio 2025,Otros,Leads efectivos,20.0,36.0,110.0,36.0,110.0,6
+Junio 2025,Otros,Cita programada,6.0,20.0,110.0,20.0,110.0,6
+Junio 2025,Otros,Cita efectiva,6.0,16.0,110.0,16.0,110.0,6
+Junio 2025,Otros,Prueba de manejo,6.0,10.0,110.0,10.0,110.0,6
+Junio 2025,Otros,Solicitud de crédito generada,6.0,25.0,110.0,25.0,110.0,6
+Junio 2025,Otros,Solicitud de crédito aprobada,2.0,10.0,110.0,10.0,110.0,6
+Junio 2025,Otros,Formalizado,2.0,5.0,110.0,5.0,110.0,6
+Junio 2025,Estrategia de Prospeccion,Ventas,2.0,0.0,0.0,2.0,0.0,6
+Junio 2025,Estrategia de Prospeccion,Leads generados,80.0,40.0,50.0,80.0,50.0,6
+Junio 2025,Estrategia de Prospeccion,Leads efectivos,80.0,27.0,34.0,80.0,34.0,6
+Junio 2025,Estrategia de Prospeccion,Cita programada,40.0,11.0,28.0,40.0,28.0,6
+Junio 2025,Estrategia de Prospeccion,Cita efectiva,35.0,8.0,23.0,35.0,23.0,6
+Junio 2025,Estrategia de Prospeccion,Prueba de manejo,10.0,4.0,40.0,10.0,40.0,6
+Junio 2025,Estrategia de Prospeccion,Solicitud de crédito generada,7.0,5.0,71.0,7.0,71.0,6
+Junio 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,4.0,1.0,25.0,4.0,25.0,6
+Junio 2025,Estrategia de Prospeccion,Formalizado,2.0,0.0,0.0,2.0,0.0,6
+Julio 2025,GAC Angelopolis,Ventas,45.0,36.0,80.0,45.0,80.0,7
+Julio 2025,GAC Angelopolis,Leads generados,1050.0,1358.0,110.0,1050.0,110.0,7
+Julio 2025,GAC Angelopolis,Leads efectivos,750.0,893.0,110.0,750.0,110.0,7
+Julio 2025,GAC Angelopolis,Cita programada,230.0,256.0,110.0,230.0,110.0,7
+Julio 2025,GAC Angelopolis,Cita efectiva,185.0,193.0,104.0,185.0,104.0,7
+Julio 2025,GAC Angelopolis,Prueba de manejo,110.0,127.0,110.0,110.0,110.0,7
+Julio 2025,GAC Angelopolis,Solicitud de crédito generada,100.0,104.0,104.0,100.0,104.0,7
+Julio 2025,GAC Angelopolis,Solicitud de crédito aprobada,51.0,41.0,80.0,51.0,80.0,7
+Julio 2025,GAC Angelopolis,Formalizado,38.0,21.0,55.0,38.0,55.0,7
+Julio 2025,Plaza Ange,Ventas,10.0,10.0,100.0,10.0,100.0,7
+Julio 2025,Plaza Ange,Leads generados,280.0,351.0,110.0,280.0,110.0,7
+Julio 2025,Plaza Ange,Leads efectivos,220.0,278.0,110.0,220.0,110.0,7
+Julio 2025,Plaza Ange,Cita programada,95.0,53.0,56.0,95.0,56.0,7
+Julio 2025,Plaza Ange,Cita efectiva,40.0,44.0,110.0,40.0,110.0,7
+Julio 2025,Plaza Ange,Prueba de manejo,28.0,35.0,110.0,28.0,110.0,7
+Julio 2025,Plaza Ange,Solicitud de crédito generada,25.0,27.0,108.0,25.0,108.0,7
+Julio 2025,Plaza Ange,Solicitud de crédito aprobada,13.0,13.0,100.0,13.0,100.0,7
+Julio 2025,Plaza Ange,Formalizado,9.0,8.0,89.0,9.0,89.0,7
+Julio 2025,Piso,Ventas,15.0,7.0,47.0,15.0,47.0,7
+Julio 2025,Piso,Leads generados,80.0,63.0,79.0,80.0,79.0,7
+Julio 2025,Piso,Leads efectivos,80.0,63.0,79.0,80.0,79.0,7
+Julio 2025,Piso,Cita programada,80.0,63.0,79.0,80.0,79.0,7
+Julio 2025,Piso,Cita efectiva,80.0,63.0,79.0,80.0,79.0,7
+Julio 2025,Piso,Prueba de manejo,48.0,38.0,79.0,48.0,79.0,7
+Julio 2025,Piso,Solicitud de crédito generada,35.0,14.0,40.0,35.0,40.0,7
+Julio 2025,Piso,Solicitud de crédito aprobada,17.0,5.0,29.0,17.0,29.0,7
+Julio 2025,Piso,Formalizado,14.0,2.0,14.0,14.0,14.0,7
+Julio 2025,Digital,Ventas,13.0,9.0,69.0,13.0,69.0,7
+Julio 2025,Digital,Leads generados,500.0,699.0,110.0,500.0,110.0,7
+Julio 2025,Digital,Leads efectivos,410.0,391.0,95.0,410.0,95.0,7
+Julio 2025,Digital,Cita programada,100.0,89.0,89.0,100.0,89.0,7
+Julio 2025,Digital,Cita efectiva,60.0,45.0,75.0,60.0,75.0,7
+Julio 2025,Digital,Prueba de manejo,36.0,33.0,92.0,36.0,92.0,7
+Julio 2025,Digital,Solicitud de crédito generada,28.0,29.0,104.0,28.0,104.0,7
+Julio 2025,Digital,Solicitud de crédito aprobada,15.0,12.0,80.0,15.0,80.0,7
+Julio 2025,Digital,Formalizado,11.0,7.0,64.0,11.0,64.0,7
+Julio 2025,Gran Patio,Ventas,6.0,4.0,67.0,6.0,67.0,7
+Julio 2025,Gran Patio,Leads generados,160.0,141.0,88.0,160.0,88.0,7
+Julio 2025,Gran Patio,Leads efectivos,100.0,86.0,86.0,100.0,86.0,7
+Julio 2025,Gran Patio,Cita programada,40.0,10.0,25.0,40.0,25.0,7
+Julio 2025,Gran Patio,Cita efectiva,34.0,7.0,21.0,34.0,21.0,7
+Julio 2025,Gran Patio,Prueba de manejo,20.0,2.0,10.0,20.0,10.0,7
+Julio 2025,Gran Patio,Solicitud de crédito generada,17.0,9.0,53.0,17.0,53.0,7
+Julio 2025,Gran Patio,Solicitud de crédito aprobada,10.0,4.0,40.0,10.0,40.0,7
+Julio 2025,Gran Patio,Formalizado,5.0,2.0,40.0,5.0,40.0,7
+Julio 2025,Otros,Ventas,0.0,5.0,0.0,0.0,0.0,7
+Julio 2025,Otros,Leads generados,20.0,34.0,110.0,20.0,110.0,7
+Julio 2025,Otros,Leads efectivos,20.0,20.0,100.0,20.0,110.0,7
+Julio 2025,Otros,Cita programada,6.0,14.0,110.0,6.0,110.0,7
+Julio 2025,Otros,Cita efectiva,6.0,14.0,110.0,6.0,110.0,7
+Julio 2025,Otros,Prueba de manejo,6.0,6.0,100.0,6.0,110.0,7
+Julio 2025,Otros,Solicitud de crédito generada,6.0,17.0,110.0,6.0,110.0,7
+Julio 2025,Otros,Solicitud de crédito aprobada,2.0,5.0,110.0,2.0,110.0,7
+Julio 2025,Otros,Formalizado,2.0,1.0,50.0,2.0,110.0,7
+Julio 2025,Estrategia de Prospeccion,Ventas,2.0,1.0,50.0,2.0,50.0,7
+Julio 2025,Estrategia de Prospeccion,Leads generados,50.0,55.0,110.0,50.0,110.0,7
+Julio 2025,Estrategia de Prospeccion,Leads efectivos,38.0,44.0,110.0,38.0,110.0,7
+Julio 2025,Estrategia de Prospeccion,Cita programada,23.0,17.0,74.0,23.0,74.0,7
+Julio 2025,Estrategia de Prospeccion,Cita efectiva,14.0,10.0,71.0,14.0,71.0,7
+Julio 2025,Estrategia de Prospeccion,Prueba de manejo,9.0,9.0,100.0,9.0,100.0,7
+Julio 2025,Estrategia de Prospeccion,Solicitud de crédito generada,8.0,8.0,100.0,8.0,100.0,7
+Julio 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,6.0,2.0,33.0,6.0,33.0,7
+Julio 2025,Estrategia de Prospeccion,Formalizado,2.0,1.0,50.0,2.0,50.0,7
+Agosto 2025,GAC Angelopolis,Ventas,45.0,27.0,60.0,45.0,60.0,8
+Agosto 2025,GAC Angelopolis,Leads generados,1050.0,1419.0,135.0,1050.0,135.0,8
+Agosto 2025,GAC Angelopolis,Leads efectivos,750.0,624.0,83.0,750.0,83.0,8
+Agosto 2025,GAC Angelopolis,Cita programada,230.0,300.0,130.0,230.0,130.0,8
+Agosto 2025,GAC Angelopolis,Cita efectiva,206.0,194.0,94.0,206.0,94.0,8
+Agosto 2025,GAC Angelopolis,Prueba de manejo,126.0,123.0,98.0,126.0,98.0,8
+Agosto 2025,GAC Angelopolis,Solicitud de crédito generada,115.0,99.0,86.0,115.0,86.0,8
+Agosto 2025,GAC Angelopolis,Solicitud de crédito aprobada,51.0,27.0,53.0,51.0,53.0,8
+Agosto 2025,GAC Angelopolis,Formalizado,38.0,13.0,34.0,38.0,34.0,8
+Agosto 2025,Plaza Ange,Ventas,10.0,5.0,50.0,10.0,50.0,8
+Agosto 2025,Plaza Ange,Leads generados,280.0,295.0,105.0,280.0,105.0,8
+Agosto 2025,Plaza Ange,Leads efectivos,220.0,183.0,83.0,220.0,83.0,8
+Agosto 2025,Plaza Ange,Cita programada,95.0,50.0,53.0,95.0,53.0,8
+Agosto 2025,Plaza Ange,Cita efectiva,40.0,36.0,90.0,40.0,90.0,8
+Agosto 2025,Plaza Ange,Prueba de manejo,28.0,23.0,82.0,28.0,82.0,8
+Agosto 2025,Plaza Ange,Solicitud de crédito generada,25.0,19.0,76.0,25.0,76.0,8
+Agosto 2025,Plaza Ange,Solicitud de crédito aprobada,13.0,7.0,54.0,13.0,54.0,8
+Agosto 2025,Plaza Ange,Formalizado,9.0,3.0,33.0,9.0,33.0,8
+Agosto 2025,Piso,Ventas,15.0,7.0,47.0,7.0,47.0,8
+Agosto 2025,Piso,Leads generados,80.0,71.0,89.0,71.0,89.0,8
+Agosto 2025,Piso,Leads efectivos,80.0,71.0,89.0,71.0,89.0,8
+Agosto 2025,Piso,Cita programada,80.0,71.0,89.0,71.0,89.0,8
+Agosto 2025,Piso,Cita efectiva,80.0,71.0,89.0,71.0,89.0,8
+Agosto 2025,Piso,Prueba de manejo,48.0,44.0,92.0,44.0,92.0,8
+Agosto 2025,Piso,Solicitud de crédito generada,35.0,22.0,63.0,22.0,63.0,8
+Agosto 2025,Piso,Solicitud de crédito aprobada,17.0,5.0,29.0,5.0,29.0,8
+Agosto 2025,Piso,Formalizado,14.0,4.0,29.0,4.0,29.0,8
+Agosto 2025,Digital,Ventas,13.0,9.0,69.0,13.0,69.0,8
+Agosto 2025,Digital,Leads generados,500.0,827.0,165.0,500.0,165.0,8
+Agosto 2025,Digital,Leads efectivos,410.0,239.0,58.0,410.0,58.0,8
+Agosto 2025,Digital,Cita programada,100.0,135.0,135.0,100.0,135.0,8
+Agosto 2025,Digital,Cita efectiva,60.0,51.0,85.0,60.0,85.0,8
+Agosto 2025,Digital,Prueba de manejo,36.0,31.0,86.0,36.0,86.0,8
+Agosto 2025,Digital,Solicitud de crédito generada,28.0,29.0,104.0,28.0,104.0,8
+Agosto 2025,Digital,Solicitud de crédito aprobada,15.0,8.0,53.0,15.0,53.0,8
+Agosto 2025,Digital,Formalizado,11.0,4.0,36.0,11.0,36.0,8
+Agosto 2025,Galerias Tlaxcala,Ventas,6.0,1.0,17.0,6.0,17.0,8
+Agosto 2025,Galerias Tlaxcala,Leads generados,160.0,102.0,64.0,160.0,64.0,8
+Agosto 2025,Galerias Tlaxcala,Leads efectivos,100.0,62.0,62.0,100.0,62.0,8
+Agosto 2025,Galerias Tlaxcala,Cita programada,40.0,13.0,33.0,40.0,33.0,8
+Agosto 2025,Galerias Tlaxcala,Cita efectiva,34.0,9.0,26.0,34.0,26.0,8
+Agosto 2025,Galerias Tlaxcala,Prueba de manejo,20.0,8.0,40.0,20.0,40.0,8
+Agosto 2025,Galerias Tlaxcala,Solicitud de crédito generada,17.0,6.0,35.0,17.0,35.0,8
+Agosto 2025,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,3.0,30.0,10.0,30.0,8
+Agosto 2025,Galerias Tlaxcala,Formalizado,5.0,0.0,0.0,5.0,0.0,8
+Agosto 2025,Otros,Ventas,4.0,4.0,100.0,4.0,100.0,8
+Agosto 2025,Otros,Leads generados,80.0,70.0,88.0,80.0,88.0,8
+Agosto 2025,Otros,Leads efectivos,75.0,37.0,49.0,75.0,49.0,8
+Agosto 2025,Otros,Cita programada,15.0,10.0,67.0,15.0,67.0,8
+Agosto 2025,Otros,Cita efectiva,10.0,8.0,80.0,10.0,80.0,8
+Agosto 2025,Otros,Prueba de manejo,8.0,5.0,63.0,8.0,63.0,8
+Agosto 2025,Otros,Solicitud de crédito generada,7.0,22.0,314.0,7.0,314.0,8
+Agosto 2025,Otros,Solicitud de crédito aprobada,5.0,4.0,80.0,5.0,80.0,8
+Agosto 2025,Otros,Formalizado,2.0,2.0,100.0,2.0,100.0,8
+Agosto 2025,Estrategia de Prospeccion,Ventas,2.0,1.0,50.0,2.0,50.0,8
+Agosto 2025,Estrategia de Prospeccion,Leads generados,50.0,47.0,94.0,50.0,94.0,8
+Agosto 2025,Estrategia de Prospeccion,Leads efectivos,38.0,25.0,66.0,38.0,66.0,8
+Agosto 2025,Estrategia de Prospeccion,Cita programada,23.0,12.0,52.0,23.0,52.0,8
+Agosto 2025,Estrategia de Prospeccion,Cita efectiva,14.0,12.0,86.0,14.0,86.0,8
+Agosto 2025,Estrategia de Prospeccion,Prueba de manejo,9.0,11.0,122.0,9.0,122.0,8
+Agosto 2025,Estrategia de Prospeccion,Solicitud de crédito generada,8.0,1.0,13.0,8.0,13.0,8
+Agosto 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,6.0,0.0,0.0,6.0,0.0,8
+Agosto 2025,Estrategia de Prospeccion,Formalizado,2.0,0.0,0.0,2.0,0.0,8
+Agosto 2025,Custom,Ventas,1.0,0.0,0.0,1.0,0.0,8
+Agosto 2025,Custom,Leads generados,20.0,7.0,35.0,20.0,35.0,8
+Agosto 2025,Custom,Leads efectivos,20.0,7.0,35.0,20.0,35.0,8
+Agosto 2025,Custom,Cita programada,20.0,9.0,45.0,20.0,45.0,8
+Agosto 2025,Custom,Cita efectiva,20.0,7.0,35.0,20.0,35.0,8
+Agosto 2025,Custom,Prueba de manejo,12.0,1.0,8.0,12.0,8.0,8
+Agosto 2025,Custom,Solicitud de crédito generada,8.0,0.0,0.0,8.0,0.0,8
+Agosto 2025,Custom,Solicitud de crédito aprobada,5.0,0.0,0.0,5.0,0.0,8
+Agosto 2025,Custom,Formalizado,1.0,0.0,0.0,1.0,0.0,8
+Septiembre 2025,GAC Angelopolis,Ventas,45.0,38.0,84.0,45.0,84.0,9
+Septiembre 2025,GAC Angelopolis,Leads generados,1050.0,1100.0,105.0,1050.0,105.0,9
+Septiembre 2025,GAC Angelopolis,Leads efectivos,750.0,660.0,88.0,750.0,88.0,9
+Septiembre 2025,GAC Angelopolis,Cita programada,230.0,273.0,119.0,230.0,119.0,9
+Septiembre 2025,GAC Angelopolis,Cita efectiva,206.0,212.0,103.0,206.0,103.0,9
+Septiembre 2025,GAC Angelopolis,Prueba de manejo,126.0,116.0,92.0,126.0,92.0,9
+Septiembre 2025,GAC Angelopolis,Solicitud de crédito generada,115.0,127.0,110.0,115.0,110.0,9
+Septiembre 2025,GAC Angelopolis,Solicitud de crédito aprobada,51.0,43.0,84.0,51.0,84.0,9
+Septiembre 2025,GAC Angelopolis,Formalizado,38.0,25.0,66.0,38.0,66.0,9
+Septiembre 2025,Plaza Ange,Ventas,10.0,12.0,120.0,10.0,120.0,9
+Septiembre 2025,Plaza Ange,Leads generados,280.0,245.0,88.0,280.0,88.0,9
+Septiembre 2025,Plaza Ange,Leads efectivos,220.0,180.0,82.0,220.0,82.0,9
+Septiembre 2025,Plaza Ange,Cita programada,95.0,64.0,67.0,95.0,67.0,9
+Septiembre 2025,Plaza Ange,Cita efectiva,40.0,45.0,113.0,40.0,113.0,9
+Septiembre 2025,Plaza Ange,Prueba de manejo,28.0,32.0,114.0,28.0,114.0,9
+Septiembre 2025,Plaza Ange,Solicitud de crédito generada,25.0,35.0,140.0,25.0,140.0,9
+Septiembre 2025,Plaza Ange,Solicitud de crédito aprobada,13.0,13.0,100.0,13.0,100.0,9
+Septiembre 2025,Plaza Ange,Formalizado,9.0,5.0,56.0,9.0,56.0,9
+Septiembre 2025,Piso,Ventas,15.0,7.0,47.0,15.0,47.0,9
+Septiembre 2025,Piso,Leads generados,80.0,58.0,73.0,80.0,73.0,9
+Septiembre 2025,Piso,Leads efectivos,80.0,58.0,73.0,80.0,73.0,9
+Septiembre 2025,Piso,Cita programada,80.0,58.0,73.0,80.0,73.0,9
+Septiembre 2025,Piso,Cita efectiva,80.0,58.0,73.0,80.0,73.0,9
+Septiembre 2025,Piso,Prueba de manejo,48.0,31.0,65.0,48.0,65.0,9
+Septiembre 2025,Piso,Solicitud de crédito generada,35.0,21.0,60.0,35.0,60.0,9
+Septiembre 2025,Piso,Solicitud de crédito aprobada,17.0,6.0,35.0,17.0,35.0,9
+Septiembre 2025,Piso,Formalizado,14.0,4.0,29.0,14.0,29.0,9
+Septiembre 2025,Digital,Ventas,13.0,15.0,115.0,13.0,115.0,9
+Septiembre 2025,Digital,Leads generados,500.0,676.0,135.0,500.0,135.0,9
+Septiembre 2025,Digital,Leads efectivos,410.0,344.0,84.0,410.0,84.0,9
+Septiembre 2025,Digital,Cita programada,100.0,125.0,125.0,100.0,125.0,9
+Septiembre 2025,Digital,Cita efectiva,60.0,73.0,122.0,60.0,122.0,9
+Septiembre 2025,Digital,Prueba de manejo,36.0,31.0,86.0,36.0,86.0,9
+Septiembre 2025,Digital,Solicitud de crédito generada,28.0,36.0,129.0,28.0,129.0,9
+Septiembre 2025,Digital,Solicitud de crédito aprobada,15.0,12.0,80.0,15.0,80.0,9
+Septiembre 2025,Digital,Formalizado,11.0,6.0,55.0,11.0,55.0,9
+Septiembre 2025,Galerias Tlaxcala,Ventas,6.0,3.0,50.0,6.0,50.0,9
+Septiembre 2025,Galerias Tlaxcala,Leads generados,160.0,67.0,42.0,160.0,42.0,9
+Septiembre 2025,Galerias Tlaxcala,Leads efectivos,100.0,37.0,37.0,100.0,37.0,9
+Septiembre 2025,Galerias Tlaxcala,Cita programada,40.0,10.0,25.0,40.0,25.0,9
+Septiembre 2025,Galerias Tlaxcala,Cita efectiva,34.0,9.0,26.0,34.0,26.0,9
+Septiembre 2025,Galerias Tlaxcala,Prueba de manejo,20.0,9.0,45.0,20.0,45.0,9
+Septiembre 2025,Galerias Tlaxcala,Solicitud de crédito generada,17.0,9.0,53.0,17.0,53.0,9
+Septiembre 2025,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,4.0,40.0,10.0,40.0,9
+Septiembre 2025,Galerias Tlaxcala,Formalizado,5.0,3.0,60.0,5.0,60.0,9
+Septiembre 2025,Otros / Custom,Ventas,1.0,1.0,100.0,1.0,100.0,9
+Septiembre 2025,Otros / Custom,Leads generados,40.0,36.0,90.0,40.0,90.0,9
+Septiembre 2025,Otros / Custom,Leads efectivos,40.0,27.0,68.0,40.0,68.0,9
+Septiembre 2025,Otros / Custom,Cita programada,26.0,13.0,50.0,26.0,50.0,9
+Septiembre 2025,Otros / Custom,Cita efectiva,26.0,12.0,46.0,26.0,46.0,9
+Septiembre 2025,Otros / Custom,Prueba de manejo,18.0,8.0,44.0,18.0,44.0,9
+Septiembre 2025,Otros / Custom,Solicitud de crédito generada,14.0,24.0,171.0,14.0,171.0,9
+Septiembre 2025,Otros / Custom,Solicitud de crédito aprobada,7.0,8.0,114.0,7.0,114.0,9
+Septiembre 2025,Otros / Custom,Formalizado,3.0,7.0,233.0,3.0,233.0,9
+Septiembre 2025,Estrategia de Prospeccion,Ventas,2.0,0.0,0.0,2.0,0.0,9
+Septiembre 2025,Estrategia de Prospeccion,Leads generados,50.0,18.0,36.0,50.0,36.0,9
+Septiembre 2025,Estrategia de Prospeccion,Leads efectivos,38.0,14.0,37.0,38.0,37.0,9
+Septiembre 2025,Estrategia de Prospeccion,Cita programada,23.0,3.0,13.0,23.0,13.0,9
+Septiembre 2025,Estrategia de Prospeccion,Cita efectiva,14.0,3.0,21.0,14.0,21.0,9
+Septiembre 2025,Estrategia de Prospeccion,Prueba de manejo,9.0,3.0,33.0,9.0,33.0,9
+Septiembre 2025,Estrategia de Prospeccion,Solicitud de crédito generada,8.0,2.0,25.0,8.0,25.0,9
+Septiembre 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,6.0,0.0,0.0,6.0,0.0,9
+Septiembre 2025,Estrategia de Prospeccion,Formalizado,2.0,0.0,0.0,2.0,0.0,9
+Octubre 2025,GAC Angelopolis,Ventas,45.0,40.0,89.0,45.0,89.0,10
+Octubre 2025,GAC Angelopolis,Leads generados,1050.0,1192.0,114.0,1050.0,114.0,10
+Octubre 2025,GAC Angelopolis,Leads efectivos,750.0,695.0,93.0,750.0,93.0,10
+Octubre 2025,GAC Angelopolis,Cita programada,230.0,304.0,132.0,230.0,132.0,10
+Octubre 2025,GAC Angelopolis,Cita efectiva,206.0,220.0,107.0,206.0,107.0,10
+Octubre 2025,GAC Angelopolis,Prueba de manejo,126.0,154.0,122.0,126.0,122.0,10
+Octubre 2025,GAC Angelopolis,Solicitud de crédito generada,115.0,136.0,118.0,115.0,118.0,10
+Octubre 2025,GAC Angelopolis,Solicitud de crédito aprobada,51.0,51.0,100.0,51.0,100.0,10
+Octubre 2025,GAC Angelopolis,Formalizado,38.0,25.0,66.0,38.0,66.0,10
+Octubre 2025,Plaza Ange,Ventas,12.0,10.0,83.0,12.0,83.0,10
+Octubre 2025,Plaza Ange,Leads generados,280.0,268.0,96.0,280.0,96.0,10
+Octubre 2025,Plaza Ange,Leads efectivos,220.0,187.0,85.0,220.0,85.0,10
+Octubre 2025,Plaza Ange,Cita programada,95.0,50.0,53.0,95.0,53.0,10
+Octubre 2025,Plaza Ange,Cita efectiva,40.0,40.0,100.0,40.0,100.0,10
+Octubre 2025,Plaza Ange,Prueba de manejo,28.0,33.0,118.0,28.0,118.0,10
+Octubre 2025,Plaza Ange,Solicitud de crédito generada,25.0,30.0,120.0,25.0,120.0,10
+Octubre 2025,Plaza Ange,Solicitud de crédito aprobada,13.0,12.0,92.0,13.0,92.0,10
+Octubre 2025,Plaza Ange,Formalizado,9.0,6.0,67.0,9.0,67.0,10
+Octubre 2025,Piso,Ventas,13.0,11.0,85.0,13.0,85.0,10
+Octubre 2025,Piso,Leads generados,80.0,72.0,90.0,80.0,90.0,10
+Octubre 2025,Piso,Leads efectivos,80.0,72.0,90.0,80.0,90.0,10
+Octubre 2025,Piso,Cita programada,80.0,72.0,90.0,80.0,90.0,10
+Octubre 2025,Piso,Cita efectiva,80.0,72.0,90.0,80.0,90.0,10
+Octubre 2025,Piso,Prueba de manejo,48.0,48.0,100.0,48.0,100.0,10
+Octubre 2025,Piso,Solicitud de crédito generada,35.0,24.0,69.0,35.0,69.0,10
+Octubre 2025,Piso,Solicitud de crédito aprobada,17.0,14.0,82.0,17.0,82.0,10
+Octubre 2025,Piso,Formalizado,14.0,6.0,43.0,14.0,43.0,10
+Octubre 2025,Digital,Ventas,13.0,10.0,77.0,13.0,77.0,10
+Octubre 2025,Digital,Leads generados,500.0,688.0,138.0,500.0,138.0,10
+Octubre 2025,Digital,Leads efectivos,410.0,329.0,80.0,410.0,80.0,10
+Octubre 2025,Digital,Cita programada,100.0,110.0,110.0,100.0,110.0,10
+Octubre 2025,Digital,Cita efectiva,60.0,60.0,100.0,60.0,100.0,10
+Octubre 2025,Digital,Prueba de manejo,36.0,32.0,89.0,36.0,89.0,10
+Octubre 2025,Digital,Solicitud de crédito generada,28.0,50.0,179.0,28.0,179.0,10
+Octubre 2025,Digital,Solicitud de crédito aprobada,15.0,14.0,93.0,15.0,93.0,10
+Octubre 2025,Digital,Formalizado,11.0,6.0,55.0,11.0,55.0,10
+Octubre 2025,Galerias Tlaxcala,Ventas,6.0,2.0,33.0,6.0,33.0,10
+Octubre 2025,Galerias Tlaxcala,Leads generados,100.0,56.0,56.0,100.0,56.0,10
+Octubre 2025,Galerias Tlaxcala,Leads efectivos,85.0,39.0,46.0,85.0,46.0,10
+Octubre 2025,Galerias Tlaxcala,Cita programada,35.0,27.0,77.0,35.0,77.0,10
+Octubre 2025,Galerias Tlaxcala,Cita efectiva,25.0,8.0,32.0,25.0,32.0,10
+Octubre 2025,Galerias Tlaxcala,Prueba de manejo,20.0,10.0,50.0,20.0,50.0,10
+Octubre 2025,Galerias Tlaxcala,Solicitud de crédito generada,17.0,8.0,47.0,17.0,47.0,10
+Octubre 2025,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,2.0,20.0,10.0,20.0,10
+Octubre 2025,Galerias Tlaxcala,Formalizado,4.0,1.0,25.0,4.0,25.0,10
+Octubre 2025,Otros / Cartera / Casa,Ventas,1.0,7.0,700.0,1.0,700.0,10
+Octubre 2025,Otros / Cartera / Casa,Leads generados,40.0,64.0,160.0,40.0,160.0,10
+Octubre 2025,Otros / Cartera / Casa,Leads efectivos,40.0,34.0,85.0,40.0,85.0,10
+Octubre 2025,Otros / Cartera / Casa,Cita programada,26.0,37.0,142.0,26.0,142.0,10
+Octubre 2025,Otros / Cartera / Casa,Cita efectiva,26.0,33.0,127.0,26.0,127.0,10
+Octubre 2025,Otros / Cartera / Casa,Prueba de manejo,18.0,15.0,83.0,18.0,83.0,10
+Octubre 2025,Otros / Cartera / Casa,Solicitud de crédito generada,14.0,21.0,150.0,14.0,150.0,10
+Octubre 2025,Otros / Cartera / Casa,Solicitud de crédito aprobada,7.0,8.0,114.0,7.0,114.0,10
+Octubre 2025,Otros / Cartera / Casa,Formalizado,3.0,6.0,200.0,3.0,200.0,10
+Octubre 2025,Estrategia de Prospeccion,Ventas,2.0,0.0,0.0,2.0,0.0,10
+Octubre 2025,Estrategia de Prospeccion,Leads generados,50.0,44.0,88.0,50.0,88.0,10
+Octubre 2025,Estrategia de Prospeccion,Leads efectivos,38.0,34.0,89.0,38.0,89.0,10
+Octubre 2025,Estrategia de Prospeccion,Cita programada,23.0,8.0,35.0,23.0,35.0,10
+Octubre 2025,Estrategia de Prospeccion,Cita efectiva,14.0,7.0,50.0,14.0,50.0,10
+Octubre 2025,Estrategia de Prospeccion,Prueba de manejo,9.0,9.0,100.0,9.0,100.0,10
+Octubre 2025,Estrategia de Prospeccion,Solicitud de crédito generada,8.0,3.0,38.0,8.0,38.0,10
+Octubre 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,6.0,1.0,17.0,6.0,17.0,10
+Octubre 2025,Estrategia de Prospeccion,Formalizado,2.0,0.0,0.0,2.0,0.0,10
+Noviembre 2025,GAC Angelopolis,Ventas,45.0,43.0,96.0,45.0,96.0,11
+Noviembre 2025,GAC Angelopolis,Leads generados,1125.0,1075.0,96.0,1125.0,96.0,11
+Noviembre 2025,GAC Angelopolis,Leads efectivos,785.0,758.0,97.0,785.0,97.0,11
+Noviembre 2025,GAC Angelopolis,Cita programada,240.0,329.0,110.0,240.0,110.0,11
+Noviembre 2025,GAC Angelopolis,Cita efectiva,215.0,225.0,105.0,215.0,105.0,11
+Noviembre 2025,GAC Angelopolis,Prueba de manejo,130.0,116.0,89.0,130.0,89.0,11
+Noviembre 2025,GAC Angelopolis,Solicitud de crédito generada,125.0,119.0,95.0,125.0,95.0,11
+Noviembre 2025,GAC Angelopolis,Solicitud de crédito aprobada,58.0,49.0,84.0,58.0,84.0,11
+Noviembre 2025,GAC Angelopolis,Formalizado,38.0,24.0,63.0,38.0,63.0,11
+Noviembre 2025,Plaza Ange,Ventas,12.0,10.0,83.0,12.0,83.0,11
+Noviembre 2025,Plaza Ange,Leads generados,280.0,210.0,75.0,280.0,75.0,11
+Noviembre 2025,Plaza Ange,Leads efectivos,220.0,170.0,77.0,220.0,77.0,11
+Noviembre 2025,Plaza Ange,Cita programada,95.0,53.0,56.0,95.0,56.0,11
+Noviembre 2025,Plaza Ange,Cita efectiva,45.0,29.0,64.0,45.0,64.0,11
+Noviembre 2025,Plaza Ange,Prueba de manejo,33.0,29.0,88.0,33.0,88.0,11
+Noviembre 2025,Plaza Ange,Solicitud de crédito generada,28.0,28.0,100.0,28.0,100.0,11
+Noviembre 2025,Plaza Ange,Solicitud de crédito aprobada,16.0,9.0,56.0,16.0,56.0,11
+Noviembre 2025,Plaza Ange,Formalizado,9.0,5.0,56.0,9.0,56.0,11
+Noviembre 2025,Piso,Ventas,13.0,9.0,69.0,13.0,69.0,11
+Noviembre 2025,Piso,Leads generados,85.0,81.0,95.0,85.0,95.0,11
+Noviembre 2025,Piso,Leads efectivos,85.0,81.0,95.0,85.0,95.0,11
+Noviembre 2025,Piso,Cita programada,85.0,81.0,95.0,85.0,95.0,11
+Noviembre 2025,Piso,Cita efectiva,85.0,81.0,95.0,85.0,95.0,11
+Noviembre 2025,Piso,Prueba de manejo,48.0,43.0,90.0,48.0,90.0,11
+Noviembre 2025,Piso,Solicitud de crédito generada,35.0,21.0,60.0,35.0,60.0,11
+Noviembre 2025,Piso,Solicitud de crédito aprobada,17.0,13.0,76.0,17.0,76.0,11
+Noviembre 2025,Piso,Formalizado,11.0,8.0,73.0,11.0,73.0,11
+Noviembre 2025,Digital,Ventas,13.0,14.0,108.0,13.0,108.0,11
+Noviembre 2025,Digital,Leads generados,600.0,554.0,92.0,600.0,92.0,11
+Noviembre 2025,Digital,Leads efectivos,410.0,342.0,83.0,410.0,83.0,11
+Noviembre 2025,Digital,Cita programada,100.0,97.0,97.0,100.0,97.0,11
+Noviembre 2025,Digital,Cita efectiva,60.0,55.0,92.0,60.0,92.0,11
+Noviembre 2025,Digital,Prueba de manejo,36.0,22.0,61.0,36.0,61.0,11
+Noviembre 2025,Digital,Solicitud de crédito generada,28.0,42.0,110.0,28.0,110.0,11
+Noviembre 2025,Digital,Solicitud de crédito aprobada,15.0,10.0,67.0,15.0,67.0,11
+Noviembre 2025,Digital,Formalizado,11.0,6.0,55.0,11.0,55.0,11
+Noviembre 2025,Galerias Tlaxcala,Ventas,6.0,1.0,17.0,6.0,17.0,11
+Noviembre 2025,Galerias Tlaxcala,Leads generados,100.0,64.0,64.0,100.0,64.0,11
+Noviembre 2025,Galerias Tlaxcala,Leads efectivos,85.0,39.0,46.0,85.0,46.0,11
+Noviembre 2025,Galerias Tlaxcala,Cita programada,35.0,7.0,20.0,35.0,20.0,11
+Noviembre 2025,Galerias Tlaxcala,Cita efectiva,25.0,3.0,12.0,25.0,12.0,11
+Noviembre 2025,Galerias Tlaxcala,Prueba de manejo,20.0,4.0,20.0,20.0,20.0,11
+Noviembre 2025,Galerias Tlaxcala,Solicitud de crédito generada,17.0,5.0,29.0,17.0,29.0,11
+Noviembre 2025,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,3.0,30.0,10.0,30.0,11
+Noviembre 2025,Galerias Tlaxcala,Formalizado,4.0,0.0,0.0,4.0,0.0,11
+Noviembre 2025,Otros / Cartera / Casa,Ventas,7.0,8.0,114.0,7.0,114.0,11
+Noviembre 2025,Otros / Cartera / Casa,Leads generados,40.0,129.0,323.0,40.0,323.0,11
+Noviembre 2025,Otros / Cartera / Casa,Leads efectivos,40.0,94.0,235.0,40.0,235.0,11
+Noviembre 2025,Otros / Cartera / Casa,Cita programada,26.0,75.0,288.0,26.0,288.0,11
+Noviembre 2025,Otros / Cartera / Casa,Cita efectiva,26.0,42.0,162.0,26.0,162.0,11
+Noviembre 2025,Otros / Cartera / Casa,Prueba de manejo,18.0,12.0,67.0,18.0,67.0,11
+Noviembre 2025,Otros / Cartera / Casa,Solicitud de crédito generada,14.0,21.0,150.0,14.0,150.0,11
+Noviembre 2025,Otros / Cartera / Casa,Solicitud de crédito aprobada,8.0,13.0,163.0,8.0,163.0,11
+Noviembre 2025,Otros / Cartera / Casa,Formalizado,3.0,5.0,167.0,3.0,167.0,11
+Noviembre 2025,Estrategia de Prospeccion,Ventas,2.0,0.0,0.0,2.0,0.0,11
+Noviembre 2025,Estrategia de Prospeccion,Leads generados,50.0,23.0,46.0,50.0,46.0,11
+Noviembre 2025,Estrategia de Prospeccion,Leads efectivos,38.0,18.0,47.0,38.0,47.0,11
+Noviembre 2025,Estrategia de Prospeccion,Cita programada,23.0,2.0,9.0,23.0,9.0,11
+Noviembre 2025,Estrategia de Prospeccion,Cita efectiva,14.0,1.0,7.0,14.0,7.0,11
+Noviembre 2025,Estrategia de Prospeccion,Prueba de manejo,9.0,0.0,0.0,9.0,0.0,11
+Noviembre 2025,Estrategia de Prospeccion,Solicitud de crédito generada,8.0,1.0,13.0,8.0,13.0,11
+Noviembre 2025,Estrategia de Prospeccion,Solicitud de crédito aprobada,6.0,1.0,17.0,6.0,17.0,11
+Noviembre 2025,Estrategia de Prospeccion,Formalizado,2.0,0.0,0.0,2.0,0.0,11
+Diciembre 2025,GAC Angelopolis,Ventas,50.0,34.0,68.0,50.0,68.0,12
+Diciembre 2025,GAC Angelopolis,Leads generados,1280.0,1534.0,110.0,1280.0,110.0,12
+Diciembre 2025,GAC Angelopolis,Leads efectivos,790.0,1137.0,110.0,790.0,110.0,12
+Diciembre 2025,GAC Angelopolis,Cita programada,280.0,290.0,104.0,280.0,104.0,12
+Diciembre 2025,GAC Angelopolis,Cita efectiva,215.0,235.0,109.0,215.0,109.0,12
+Diciembre 2025,GAC Angelopolis,Prueba de manejo,130.0,130.0,100.0,130.0,100.0,12
+Diciembre 2025,GAC Angelopolis,Solicitud de crédito generada,125.0,111.0,89.0,125.0,89.0,12
+Diciembre 2025,GAC Angelopolis,Solicitud de crédito aprobada,60.0,31.0,52.0,60.0,52.0,12
+Diciembre 2025,GAC Angelopolis,Formalizado,41.0,14.0,34.0,41.0,34.0,12
+Diciembre 2025,Plaza Ange,Ventas,12.0,8.0,67.0,12.0,67.0,12
+Diciembre 2025,Plaza Ange,Leads generados,280.0,252.0,90.0,280.0,90.0,12
+Diciembre 2025,Plaza Ange,Leads efectivos,220.0,218.0,99.0,220.0,99.0,12
+Diciembre 2025,Plaza Ange,Cita programada,95.0,36.0,38.0,95.0,38.0,12
+Diciembre 2025,Plaza Ange,Cita efectiva,45.0,31.0,69.0,45.0,69.0,12
+Diciembre 2025,Plaza Ange,Prueba de manejo,33.0,13.0,39.0,33.0,39.0,12
+Diciembre 2025,Plaza Ange,Solicitud de crédito generada,28.0,28.0,100.0,28.0,100.0,12
+Diciembre 2025,Plaza Ange,Solicitud de crédito aprobada,16.0,8.0,50.0,16.0,50.0,12
+Diciembre 2025,Plaza Ange,Formalizado,9.0,2.0,22.0,9.0,22.0,12
+Diciembre 2025,Piso,Ventas,13.0,9.0,69.0,13.0,69.0,12
+Diciembre 2025,Piso,Leads generados,85.0,76.0,89.0,85.0,89.0,12
+Diciembre 2025,Piso,Leads efectivos,85.0,76.0,89.0,85.0,89.0,12
+Diciembre 2025,Piso,Cita programada,85.0,76.0,89.0,85.0,89.0,12
+Diciembre 2025,Piso,Cita efectiva,85.0,76.0,89.0,85.0,89.0,12
+Diciembre 2025,Piso,Prueba de manejo,48.0,22.0,46.0,48.0,46.0,12
+Diciembre 2025,Piso,Solicitud de crédito generada,35.0,27.0,77.0,35.0,77.0,12
+Diciembre 2025,Piso,Solicitud de crédito aprobada,17.0,9.0,53.0,17.0,53.0,12
+Diciembre 2025,Piso,Formalizado,14.0,5.0,36.0,14.0,36.0,12
+Diciembre 2025,Digital,Ventas,13.0,8.0,62.0,13.0,62.0,12
+Diciembre 2025,Digital,Leads generados,600.0,908.0,110.0,600.0,110.0,12
+Diciembre 2025,Digital,Leads efectivos,410.0,576.0,110.0,410.0,110.0,12
+Diciembre 2025,Digital,Cita programada,100.0,90.0,90.0,100.0,90.0,12
+Diciembre 2025,Digital,Cita efectiva,60.0,51.0,85.0,60.0,85.0,12
+Diciembre 2025,Digital,Prueba de manejo,36.0,23.0,64.0,36.0,64.0,12
+Diciembre 2025,Digital,Solicitud de crédito generada,28.0,39.0,110.0,28.0,110.0,12
+Diciembre 2025,Digital,Solicitud de crédito aprobada,15.0,7.0,47.0,15.0,47.0,12
+Diciembre 2025,Digital,Formalizado,11.0,4.0,36.0,11.0,36.0,12
+Diciembre 2025,Galerias Tlaxcala,Ventas,6.0,1.0,17.0,6.0,17.0,12
+Diciembre 2025,Galerias Tlaxcala,Leads generados,100.0,73.0,73.0,100.0,73.0,12
+Diciembre 2025,Galerias Tlaxcala,Leads efectivos,85.0,69.0,81.0,85.0,81.0,12
+Diciembre 2025,Galerias Tlaxcala,Cita programada,35.0,10.0,29.0,35.0,29.0,12
+Diciembre 2025,Galerias Tlaxcala,Cita efectiva,25.0,10.0,40.0,25.0,40.0,12
+Diciembre 2025,Galerias Tlaxcala,Prueba de manejo,20.0,5.0,25.0,20.0,25.0,12
+Diciembre 2025,Galerias Tlaxcala,Solicitud de crédito generada,17.0,6.0,35.0,17.0,35.0,12
+Diciembre 2025,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,2.0,20.0,10.0,20.0,12
+Diciembre 2025,Galerias Tlaxcala,Formalizado,4.0,0.0,0.0,4.0,0.0,12
+Diciembre 2025,Otros / Cartera / Casa,Ventas,9.0,8.0,89.0,9.0,89.0,12
+Diciembre 2025,Otros / Cartera / Casa,Leads generados,135.0,225.0,110.0,135.0,110.0,12
+Diciembre 2025,Otros / Cartera / Casa,Leads efectivos,118.0,198.0,110.0,118.0,110.0,12
+Diciembre 2025,Otros / Cartera / Casa,Cita programada,86.0,78.0,91.0,86.0,91.0,12
+Diciembre 2025,Otros / Cartera / Casa,Cita efectiva,67.0,67.0,100.0,67.0,100.0,12
+Diciembre 2025,Otros / Cartera / Casa,Prueba de manejo,52.0,67.0,110.0,52.0,110.0,12
+Diciembre 2025,Otros / Cartera / Casa,Solicitud de crédito generada,38.0,11.0,29.0,38.0,29.0,12
+Diciembre 2025,Otros / Cartera / Casa,Solicitud de crédito aprobada,26.0,5.0,19.0,26.0,19.0,12
+Diciembre 2025,Otros / Cartera / Casa,Formalizado,7.0,3.0,43.0,7.0,43.0,12
+Enero 2026,GAC Angelopolis,Ventas,45.0,38.0,84.0,45.0,84.0,13
+Enero 2026,GAC Angelopolis,Leads generados,1275.0,1499.0,110.0,1275.0,110.0,13
+Enero 2026,GAC Angelopolis,Leads efectivos,795.0,1217.0,110.0,795.0,110.0,13
+Enero 2026,GAC Angelopolis,Cita programada,280.0,274.0,98.0,280.0,98.0,13
+Enero 2026,GAC Angelopolis,Cita efectiva,215.0,215.0,100.0,215.0,100.0,13
+Enero 2026,GAC Angelopolis,Prueba de manejo,130.0,148.0,110.0,130.0,110.0,13
+Enero 2026,GAC Angelopolis,Solicitud de crédito generada,125.0,113.0,90.0,125.0,90.0,13
+Enero 2026,GAC Angelopolis,Solicitud de crédito aprobada,60.0,35.0,58.0,60.0,58.0,13
+Enero 2026,GAC Angelopolis,Formalizado,38.0,21.0,55.0,38.0,55.0,13
+Enero 2026,Plaza Ange,Ventas,12.0,3.0,25.0,12.0,25.0,13
+Enero 2026,Plaza Ange,Leads generados,280.0,210.0,75.0,280.0,75.0,13
+Enero 2026,Plaza Ange,Leads efectivos,220.0,193.0,88.0,220.0,88.0,13
+Enero 2026,Plaza Ange,Cita programada,95.0,14.0,15.0,95.0,15.0,13
+Enero 2026,Plaza Ange,Cita efectiva,45.0,10.0,22.0,45.0,22.0,13
+Enero 2026,Plaza Ange,Prueba de manejo,33.0,6.0,18.0,33.0,18.0,13
+Enero 2026,Plaza Ange,Solicitud de crédito generada,28.0,19.0,68.0,28.0,68.0,13
+Enero 2026,Plaza Ange,Solicitud de crédito aprobada,16.0,5.0,31.0,16.0,31.0,13
+Enero 2026,Plaza Ange,Formalizado,10.0,3.0,30.0,10.0,30.0,13
+Enero 2026,Piso,Ventas,13.0,6.0,46.0,13.0,46.0,13
+Enero 2026,Piso,Leads generados,85.0,105.0,110.0,85.0,110.0,13
+Enero 2026,Piso,Leads efectivos,85.0,105.0,110.0,85.0,110.0,13
+Enero 2026,Piso,Cita programada,85.0,105.0,110.0,85.0,110.0,13
+Enero 2026,Piso,Cita efectiva,85.0,105.0,110.0,85.0,110.0,13
+Enero 2026,Piso,Prueba de manejo,48.0,46.0,96.0,48.0,96.0,13
+Enero 2026,Piso,Solicitud de crédito generada,35.0,28.0,80.0,35.0,80.0,13
+Enero 2026,Piso,Solicitud de crédito aprobada,17.0,8.0,47.0,17.0,47.0,13
+Enero 2026,Piso,Formalizado,12.0,4.0,33.0,12.0,33.0,13
+Enero 2026,Digital,Ventas,13.0,6.0,46.0,13.0,46.0,13
+Enero 2026,Digital,Leads generados,600.0,922.0,110.0,600.0,110.0,13
+Enero 2026,Digital,Leads efectivos,410.0,674.0,110.0,410.0,110.0,13
+Enero 2026,Digital,Cita programada,100.0,110.0,110.0,100.0,110.0,13
+Enero 2026,Digital,Cita efectiva,60.0,56.0,93.0,60.0,93.0,13
+Enero 2026,Digital,Prueba de manejo,36.0,22.0,61.0,36.0,61.0,13
+Enero 2026,Digital,Solicitud de crédito generada,28.0,23.0,82.0,28.0,82.0,13
+Enero 2026,Digital,Solicitud de crédito aprobada,15.0,6.0,40.0,15.0,40.0,13
+Enero 2026,Digital,Formalizado,11.0,3.0,27.0,11.0,27.0,13
+Enero 2026,Galerias Tlaxcala,Ventas,6.0,2.0,33.0,6.0,33.0,13
+Enero 2026,Galerias Tlaxcala,Leads generados,100.0,76.0,76.0,100.0,76.0,13
+Enero 2026,Galerias Tlaxcala,Leads efectivos,85.0,65.0,76.0,85.0,76.0,13
+Enero 2026,Galerias Tlaxcala,Cita programada,35.0,9.0,26.0,35.0,26.0,13
+Enero 2026,Galerias Tlaxcala,Cita efectiva,25.0,9.0,36.0,25.0,36.0,13
+Enero 2026,Galerias Tlaxcala,Prueba de manejo,20.0,9.0,45.0,20.0,45.0,13
+Enero 2026,Galerias Tlaxcala,Solicitud de crédito generada,17.0,5.0,29.0,17.0,29.0,13
+Enero 2026,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,2.0,20.0,10.0,20.0,13
+Enero 2026,Galerias Tlaxcala,Formalizado,4.0,2.0,50.0,4.0,50.0,13
+Enero 2026,Otros,Ventas,9.0,17.0,110.0,9.0,110.0,13
+Enero 2026,Otros,Leads generados,135.0,93.0,69.0,135.0,69.0,13
+Enero 2026,Otros,Leads efectivos,118.0,88.0,75.0,118.0,75.0,13
+Enero 2026,Otros,Cita programada,86.0,33.0,38.0,86.0,38.0,13
+Enero 2026,Otros,Cita efectiva,67.0,32.0,48.0,67.0,48.0,13
+Enero 2026,Otros,Prueba de manejo,52.0,34.0,65.0,52.0,65.0,13
+Enero 2026,Otros,Solicitud de crédito generada,38.0,24.0,63.0,38.0,63.0,13
+Enero 2026,Otros,Solicitud de crédito aprobada,26.0,9.0,35.0,26.0,35.0,13
+Enero 2026,Otros,Formalizado,7.0,6.0,86.0,7.0,86.0,13
+Enero 2026,Estrategia de Prospeccion,Ventas,2.0,4.0,110.0,2.0,110.0,13
+Enero 2026,Estrategia de Prospeccion,Leads generados,115.0,93.0,81.0,115.0,81.0,13
+Enero 2026,Estrategia de Prospeccion,Leads efectivos,56.0,92.0,110.0,56.0,110.0,13
+Enero 2026,Estrategia de Prospeccion,Cita programada,34.0,3.0,9.0,34.0,9.0,13
+Enero 2026,Estrategia de Prospeccion,Cita efectiva,22.0,3.0,14.0,22.0,14.0,13
+Enero 2026,Estrategia de Prospeccion,Prueba de manejo,15.0,29.0,110.0,15.0,110.0,13
+Enero 2026,Estrategia de Prospeccion,Solicitud de crédito generada,9.0,14.0,110.0,9.0,110.0,13
+Enero 2026,Estrategia de Prospeccion,Solicitud de crédito aprobada,6.0,5.0,83.0,6.0,83.0,13
+Enero 2026,Estrategia de Prospeccion,Formalizado,2.0,3.0,110.0,2.0,110.0,13
+Febrero 2026,GAC Angelopolis,Ventas,40.0,31.0,85.0,40.0,78.0,14
+Febrero 2026,GAC Angelopolis,Leads generados,1260.0,1373.0,101.0,1260.0,101.0,14
+Febrero 2026,GAC Angelopolis,Leads efectivos,926.0,1045.0,110.0,926.0,110.0,14
+Febrero 2026,GAC Angelopolis,Cita programada,285.0,434.0,110.0,285.0,110.0,14
+Febrero 2026,GAC Angelopolis,Cita efectiva,215.0,337.0,110.0,215.0,110.0,14
+Febrero 2026,GAC Angelopolis,Prueba de manejo,105.0,109.0,84.0,130.0,84.0,14
+Febrero 2026,GAC Angelopolis,Solicitud de crédito generada,101.0,83.0,66.0,125.0,66.0,14
+Febrero 2026,GAC Angelopolis,Solicitud de crédito aprobada,58.0,37.0,64.0,58.0,64.0,14
+Febrero 2026,GAC Angelopolis,Formalizado,28.0,17.0,61.0,28.0,61.0,14
+Febrero 2026,Plaza Ange,Ventas,10.0,5.0,50.0,10.0,50.0,14
+Febrero 2026,Plaza Ange,Leads generados,280.0,230.0,82.0,280.0,82.0,14
+Febrero 2026,Plaza Ange,Leads efectivos,208.0,200.0,96.0,208.0,96.0,14
+Febrero 2026,Plaza Ange,Cita programada,85.0,89.0,105.0,85.0,105.0,14
+Febrero 2026,Plaza Ange,Cita efectiva,45.0,36.0,80.0,45.0,80.0,14
+Febrero 2026,Plaza Ange,Prueba de manejo,33.0,19.0,58.0,33.0,58.0,14
+Febrero 2026,Plaza Ange,Solicitud de crédito generada,28.0,21.0,75.0,28.0,75.0,14
+Febrero 2026,Plaza Ange,Solicitud de crédito aprobada,16.0,10.0,63.0,16.0,63.0,14
+Febrero 2026,Plaza Ange,Formalizado,6.0,4.0,67.0,6.0,67.0,14
+Febrero 2026,Piso,Ventas,13.0,7.0,77.0,13.0,54.0,14
+Febrero 2026,Piso,Leads generados,85.0,94.0,110.0,85.0,110.0,14
+Febrero 2026,Piso,Leads efectivos,85.0,94.0,110.0,85.0,110.0,14
+Febrero 2026,Piso,Cita programada,85.0,94.0,110.0,85.0,110.0,14
+Febrero 2026,Piso,Cita efectiva,85.0,94.0,110.0,85.0,110.0,14
+Febrero 2026,Piso,Prueba de manejo,48.0,28.0,58.0,48.0,58.0,14
+Febrero 2026,Piso,Solicitud de crédito generada,35.0,18.0,51.0,35.0,51.0,14
+Febrero 2026,Piso,Solicitud de crédito aprobada,17.0,12.0,71.0,17.0,71.0,14
+Febrero 2026,Piso,Formalizado,6.0,7.0,110.0,6.0,110.0,14
+Febrero 2026,Digital,Ventas,12.0,13.0,108.0,12.0,108.0,14
+Febrero 2026,Digital,Leads generados,600.0,635.0,106.0,600.0,106.0,14
+Febrero 2026,Digital,Leads efectivos,385.0,457.0,110.0,385.0,110.0,14
+Febrero 2026,Digital,Cita programada,94.0,85.0,90.0,94.0,90.0,14
+Febrero 2026,Digital,Cita efectiva,60.0,43.0,72.0,60.0,72.0,14
+Febrero 2026,Digital,Prueba de manejo,36.0,22.0,61.0,36.0,61.0,14
+Febrero 2026,Digital,Solicitud de crédito generada,28.0,21.0,75.0,28.0,75.0,14
+Febrero 2026,Digital,Solicitud de crédito aprobada,15.0,9.0,60.0,15.0,60.0,14
+Febrero 2026,Digital,Formalizado,8.0,4.0,50.0,8.0,50.0,14
+Febrero 2026,Galerias Tlaxcala,Ventas,3.0,0.0,100.0,3.0,0.0,14
+Febrero 2026,Galerias Tlaxcala,Leads generados,100.0,62.0,62.0,100.0,62.0,14
+Febrero 2026,Galerias Tlaxcala,Leads efectivos,85.0,58.0,68.0,85.0,68.0,14
+Febrero 2026,Galerias Tlaxcala,Cita programada,32.0,21.0,66.0,32.0,66.0,14
+Febrero 2026,Galerias Tlaxcala,Cita efectiva,25.0,21.0,84.0,25.0,84.0,14
+Febrero 2026,Galerias Tlaxcala,Prueba de manejo,20.0,11.0,55.0,20.0,55.0,14
+Febrero 2026,Galerias Tlaxcala,Solicitud de crédito generada,17.0,2.0,12.0,17.0,12.0,14
+Febrero 2026,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,0.0,0.0,10.0,0.0,14
+Febrero 2026,Galerias Tlaxcala,Formalizado,2.0,0.0,0.0,2.0,0.0,14
+Febrero 2026,Otros,Ventas,9.0,5.0,56.0,9.0,56.0,14
+Febrero 2026,Otros,Leads generados,135.0,211.0,110.0,135.0,110.0,14
+Febrero 2026,Otros,Leads efectivos,118.0,206.0,110.0,118.0,110.0,14
+Febrero 2026,Otros,Cita programada,86.0,126.0,110.0,86.0,110.0,14
+Febrero 2026,Otros,Cita efectiva,67.0,124.0,110.0,67.0,110.0,14
+Febrero 2026,Otros,Prueba de manejo,52.0,21.0,40.0,52.0,40.0,14
+Febrero 2026,Otros,Solicitud de crédito generada,38.0,19.0,50.0,38.0,50.0,14
+Febrero 2026,Otros,Solicitud de crédito aprobada,26.0,5.0,19.0,26.0,19.0,14
+Febrero 2026,Otros,Formalizado,7.0,1.0,14.0,7.0,14.0,14
+Febrero 2026,Estrategia de Prospeccion,Ventas,1.0,1.0,100.0,1.0,100.0,14
+Febrero 2026,Estrategia de Prospeccion,Leads generados,30.0,41.0,110.0,30.0,110.0,14
+Febrero 2026,Estrategia de Prospeccion,Leads efectivos,28.0,30.0,107.0,28.0,107.0,14
+Febrero 2026,Estrategia de Prospeccion,Cita programada,18.0,19.0,106.0,18.0,106.0,14
+Febrero 2026,Estrategia de Prospeccion,Cita efectiva,12.0,19.0,110.0,12.0,110.0,14
+Febrero 2026,Estrategia de Prospeccion,Prueba de manejo,10.0,8.0,80.0,10.0,80.0,14
+Febrero 2026,Estrategia de Prospeccion,Solicitud de crédito generada,5.0,2.0,40.0,5.0,40.0,14
+Febrero 2026,Estrategia de Prospeccion,Solicitud de crédito aprobada,3.0,1.0,33.0,3.0,33.0,14
+Febrero 2026,Estrategia de Prospeccion,Formalizado,1.0,1.0,100.0,1.0,100.0,14
+Marzo 2026,GAC Angelopolis,Ventas,40.0,41.0,103.0,40.0,103.0,15
+Marzo 2026,GAC Angelopolis,Leads generados,1380.0,1678.0,110.0,1380.0,110.0,15
+Marzo 2026,GAC Angelopolis,Leads efectivos,926.0,1186.0,110.0,926.0,110.0,15
+Marzo 2026,GAC Angelopolis,Cita programada,285.0,305.0,107.0,285.0,107.0,15
+Marzo 2026,GAC Angelopolis,Cita efectiva,215.0,237.0,110.0,215.0,110.0,15
+Marzo 2026,GAC Angelopolis,Prueba de manejo,130.0,118.0,91.0,130.0,91.0,15
+Marzo 2026,GAC Angelopolis,Solicitud de crédito generada,125.0,85.0,68.0,125.0,68.0,15
+Marzo 2026,GAC Angelopolis,Solicitud de crédito aprobada,58.0,41.0,71.0,58.0,71.0,15
+Marzo 2026,GAC Angelopolis,Formalizado,32.0,18.0,56.0,32.0,56.0,15
+Marzo 2026,Plaza Ange,Ventas,10.0,5.0,50.0,10.0,50.0,15
+Marzo 2026,Plaza Ange,Leads generados,280.0,217.0,78.0,280.0,78.0,15
+Marzo 2026,Plaza Ange,Leads efectivos,208.0,182.0,88.0,208.0,99.0,15
+Marzo 2026,Plaza Ange,Cita programada,85.0,37.0,44.0,85.0,44.0,15
+Marzo 2026,Plaza Ange,Cita efectiva,45.0,28.0,62.0,45.0,62.0,15
+Marzo 2026,Plaza Ange,Prueba de manejo,33.0,25.0,76.0,33.0,76.0,15
+Marzo 2026,Plaza Ange,Solicitud de crédito generada,28.0,22.0,79.0,28.0,79.0,15
+Marzo 2026,Plaza Ange,Solicitud de crédito aprobada,16.0,9.0,56.0,16.0,56.0,15
+Marzo 2026,Plaza Ange,Formalizado,6.0,3.0,50.0,6.0,50.0,15
+Marzo 2026,Piso,Ventas,13.0,8.0,62.0,13.0,62.0,15
+Marzo 2026,Piso,Leads generados,85.0,105.0,110.0,85.0,110.0,15
+Marzo 2026,Piso,Leads efectivos,85.0,105.0,110.0,85.0,110.0,15
+Marzo 2026,Piso,Cita programada,85.0,105.0,110.0,85.0,110.0,15
+Marzo 2026,Piso,Cita efectiva,85.0,105.0,110.0,85.0,110.0,15
+Marzo 2026,Piso,Prueba de manejo,48.0,41.0,85.0,48.0,85.0,15
+Marzo 2026,Piso,Solicitud de crédito generada,35.0,24.0,69.0,35.0,69.0,15
+Marzo 2026,Piso,Solicitud de crédito aprobada,17.0,14.0,82.0,17.0,82.0,15
+Marzo 2026,Piso,Formalizado,6.0,7.0,110.0,6.0,110.0,15
+Marzo 2026,Digital,Ventas,12.0,11.0,92.0,12.0,92.0,15
+Marzo 2026,Digital,Leads generados,600.0,980.0,110.0,600.0,110.0,15
+Marzo 2026,Digital,Leads efectivos,385.0,618.0,110.0,385.0,110.0,15
+Marzo 2026,Digital,Cita programada,94.0,78.0,83.0,94.0,83.0,15
+Marzo 2026,Digital,Cita efectiva,60.0,36.0,60.0,60.0,60.0,15
+Marzo 2026,Digital,Prueba de manejo,36.0,25.0,69.0,36.0,69.0,15
+Marzo 2026,Digital,Solicitud de crédito generada,28.0,16.0,57.0,28.0,57.0,15
+Marzo 2026,Digital,Solicitud de crédito aprobada,15.0,8.0,53.0,15.0,53.0,15
+Marzo 2026,Digital,Formalizado,8.0,6.0,75.0,8.0,75.0,15
+Marzo 2026,Galerias Tlaxcala,Ventas,3.0,0.0,0.0,3.0,0.0,15
+Marzo 2026,Galerias Tlaxcala,Leads generados,100.0,87.0,87.0,100.0,87.0,15
+Marzo 2026,Galerias Tlaxcala,Leads efectivos,85.0,58.0,68.0,85.0,68.0,15
+Marzo 2026,Galerias Tlaxcala,Cita programada,32.0,20.0,63.0,32.0,63.0,15
+Marzo 2026,Galerias Tlaxcala,Cita efectiva,25.0,17.0,68.0,25.0,68.0,15
+Marzo 2026,Galerias Tlaxcala,Prueba de manejo,20.0,8.0,40.0,20.0,40.0,15
+Marzo 2026,Galerias Tlaxcala,Solicitud de crédito generada,17.0,0.0,0.0,17.0,0.0,15
+Marzo 2026,Galerias Tlaxcala,Solicitud de crédito aprobada,10.0,0.0,0.0,10.0,0.0,15
+Marzo 2026,Galerias Tlaxcala,Formalizado,2.0,0.0,0.0,2.0,0.0,15
+Marzo 2026,Otros,Ventas,,17.0,,,,15
+Marzo 2026,Otros,Leads generados,,230.0,,,,15
+Marzo 2026,Otros,Leads efectivos,,185.0,,,,15
+Marzo 2026,Otros,Cita programada,,48.0,,,,15
+Marzo 2026,Otros,Cita efectiva,,44.0,,,,15
+Marzo 2026,Otros,Prueba de manejo,,15.0,,,,15
+Marzo 2026,Otros,Solicitud de crédito generada,,15.0,,,,15
+Marzo 2026,Otros,Solicitud de crédito aprobada,,7.0,,,,15
+Marzo 2026,Otros,Formalizado,,2.0,,,,15
+Marzo 2026,Estrategia de Prospeccion,Ventas,1.0,0.0,0.0,1.0,0.0,15
+Marzo 2026,Estrategia de Prospeccion,Leads generados,30.0,59.0,110.0,30.0,110.0,15
+Marzo 2026,Estrategia de Prospeccion,Leads efectivos,28.0,38.0,110.0,28.0,110.0,15
+Marzo 2026,Estrategia de Prospeccion,Cita programada,18.0,17.0,94.0,18.0,94.0,15
+Marzo 2026,Estrategia de Prospeccion,Cita efectiva,12.0,7.0,58.0,12.0,58.0,15
+Marzo 2026,Estrategia de Prospeccion,Prueba de manejo,10.0,4.0,40.0,10.0,40.0,15
+Marzo 2026,Estrategia de Prospeccion,Solicitud de crédito generada,5.0,8.0,110.0,5.0,110.0,15
+Marzo 2026,Estrategia de Prospeccion,Solicitud de crédito aprobada,3.0,3.0,100.0,3.0,100.0,15
+Marzo 2026,Estrategia de Prospeccion,Formalizado,1.0,0.0,0.0,1.0,0.0,15
+Marzo 2026,Plaza Pachuca,Ventas,3.0,2.0,67.0,3.0,67.0,15
+Marzo 2026,Plaza Pachuca,Leads generados,60.0,88.0,110.0,60.0,110.0,15
+Marzo 2026,Plaza Pachuca,Leads efectivos,45.0,87.0,110.0,45.0,110.0,15
+Marzo 2026,Plaza Pachuca,Cita programada,28.0,20.0,71.0,28.0,71.0,15
+Marzo 2026,Plaza Pachuca,Cita efectiva,15.0,15.0,100.0,15.0,100.0,15
+Marzo 2026,Plaza Pachuca,Prueba de manejo,8.0,5.0,63.0,8.0,63.0,15
+Marzo 2026,Plaza Pachuca,Solicitud de crédito generada,6.0,4.0,67.0,6.0,67.0,15
+Marzo 2026,Plaza Pachuca,Solicitud de crédito aprobada,4.0,2.0,50.0,4.0,50.0,15
+Marzo 2026,Plaza Pachuca,Formalizado,2.0,1.0,50.0,2.0,50.0,15
+Abril 2026,GAC Angelopolis,Ventas,45.0,41.0,91.0,45.0,91.0,16
+Abril 2026,GAC Angelopolis,Leads generados,1380.0,1393.0,101.0,1380.0,101.0,16
+Abril 2026,GAC Angelopolis,Leads efectivos,926.0,724.0,78.0,926.0,78.0,16
+Abril 2026,GAC Angelopolis,Cita programada,285.0,146.0,51.0,285.0,51.0,16
+Abril 2026,GAC Angelopolis,Cita efectiva,215.0,105.0,49.0,215.0,49.0,16
+Abril 2026,GAC Angelopolis,Prueba de manejo,130.0,117.0,90.0,130.0,90.0,16
+Abril 2026,GAC Angelopolis,Solicitud de crédito generada,125.0,74.0,59.0,125.0,59.0,16
+Abril 2026,GAC Angelopolis,Solicitud de crédito aprobada,58.0,41.0,71.0,58.0,71.0,16
+Abril 2026,GAC Angelopolis,Formalizado,32.0,16.0,50.0,32.0,50.0,16
+Abril 2026,Plaza Angelopólis,Ventas,10.0,4.0,40.0,10.0,40.0,16
+Abril 2026,Plaza Angelopólis,Leads generados,280.0,208.0,74.0,280.0,74.0,16
+Abril 2026,Plaza Angelopólis,Leads efectivos,208.0,208.0,100.0,208.0,100.0,16
+Abril 2026,Plaza Angelopólis,Cita programada,85.0,23.0,27.0,85.0,27.0,16
+Abril 2026,Plaza Angelopólis,Cita efectiva,45.0,15.0,33.0,45.0,33.0,16
+Abril 2026,Plaza Angelopólis,Prueba de manejo,33.0,17.0,52.0,33.0,52.0,16
+Abril 2026,Plaza Angelopólis,Solicitud de crédito generada,28.0,13.0,46.0,28.0,46.0,16
+Abril 2026,Plaza Angelopólis,Solicitud de crédito aprobada,16.0,9.0,56.0,16.0,56.0,16
+Abril 2026,Plaza Angelopólis,Formalizado,6.0,4.0,67.0,6.0,67.0,16
+Abril 2026,Piso,Ventas,13.0,9.0,69.0,13.0,69.0,16
+Abril 2026,Piso,Leads generados,85.0,79.0,93.0,85.0,93.0,16
+Abril 2026,Piso,Leads efectivos,85.0,79.0,93.0,85.0,93.0,16
+Abril 2026,Piso,Cita programada,85.0,12.0,14.0,85.0,14.0,16
+Abril 2026,Piso,Cita efectiva,85.0,10.0,12.0,85.0,12.0,16
+Abril 2026,Piso,Prueba de manejo,48.0,36.0,75.0,48.0,75.0,16
+Abril 2026,Piso,Solicitud de crédito generada,35.0,18.0,51.0,35.0,51.0,16
+Abril 2026,Piso,Solicitud de crédito aprobada,17.0,10.0,59.0,17.0,59.0,16
+Abril 2026,Piso,Formalizado,6.0,7.0,110.0,6.0,110.0,16
+Abril 2026,Digital,Ventas,12.0,8.0,67.0,12.0,67.0,16
+Abril 2026,Digital,Leads generados,600.0,834.0,110.0,600.0,110.0,16
+Abril 2026,Digital,Leads efectivos,385.0,179.0,46.0,385.0,46.0,16
+Abril 2026,Digital,Cita programada,94.0,83.0,88.0,94.0,88.0,16
+Abril 2026,Digital,Cita efectiva,60.0,59.0,98.0,60.0,98.0,16
+Abril 2026,Digital,Prueba de manejo,36.0,35.0,97.0,36.0,97.0,16
+Abril 2026,Digital,Solicitud de crédito generada,28.0,32.0,110.0,28.0,110.0,16
+Abril 2026,Digital,Solicitud de crédito aprobada,15.0,14.0,93.0,15.0,93.0,16
+Abril 2026,Digital,Formalizado,8.0,4.0,50.0,8.0,50.0,16
+Abril 2026,Plaza Tlaxcala,Ventas,3.0,2.0,67.0,3.0,67.0,16
+Abril 2026,Plaza Tlaxcala,Leads generados,100.0,88.0,88.0,100.0,88.0,16
+Abril 2026,Plaza Tlaxcala,Leads efectivos,85.0,88.0,104.0,85.0,104.0,16
+Abril 2026,Plaza Tlaxcala,Cita programada,32.0,10.0,31.0,32.0,31.0,16
+Abril 2026,Plaza Tlaxcala,Cita efectiva,25.0,9.0,36.0,25.0,36.0,16
+Abril 2026,Plaza Tlaxcala,Prueba de manejo,20.0,7.0,35.0,20.0,35.0,16
+Abril 2026,Plaza Tlaxcala,Solicitud de crédito generada,17.0,2.0,12.0,17.0,12.0,16
+Abril 2026,Plaza Tlaxcala,Solicitud de crédito aprobada,10.0,2.0,20.0,10.0,20.0,16
+Abril 2026,Plaza Tlaxcala,Formalizado,2.0,0.0,0.0,2.0,0.0,16
+Abril 2026,Otros,Ventas,3.0,16.0,110.0,3.0,110.0,16
+Abril 2026,Otros,Leads generados,105.0,67.0,140.0,105.0,140.0,16
+Abril 2026,Otros,Leads efectivos,90.0,66.0,151.0,90.0,151.0,16
+Abril 2026,Otros,Cita programada,60.0,7.0,20.0,60.0,20.0,16
+Abril 2026,Otros,Cita efectiva,55.0,4.0,14.0,55.0,14.0,16
+Abril 2026,Otros,Prueba de manejo,42.0,13.0,58.0,42.0,58.0,16
+Abril 2026,Otros,Solicitud de crédito generada,33.0,7.0,28.0,33.0,28.0,16
+Abril 2026,Otros,Solicitud de crédito aprobada,23.0,5.0,28.0,23.0,28.0,16
+Abril 2026,Otros,Formalizado,3.0,1.0,50.0,3.0,50.0,16
+Abril 2026,Estrategia de Prospeccion,Ventas,1.0,1.0,100.0,1.0,100.0,16
+Abril 2026,Estrategia de Prospeccion,Leads generados,30.0,62.0,110.0,30.0,110.0,16
+Abril 2026,Estrategia de Prospeccion,Leads efectivos,28.0,49.0,110.0,28.0,110.0,16
+Abril 2026,Estrategia de Prospeccion,Cita programada,18.0,3.0,17.0,18.0,17.0,16
+Abril 2026,Estrategia de Prospeccion,Cita efectiva,12.0,1.0,8.0,12.0,8.0,16
+Abril 2026,Estrategia de Prospeccion,Prueba de manejo,10.0,3.0,30.0,10.0,30.0,16
+Abril 2026,Estrategia de Prospeccion,Solicitud de crédito generada,5.0,0.0,0.0,5.0,0.0,16
+Abril 2026,Estrategia de Prospeccion,Solicitud de crédito aprobada,3.0,0.0,0.0,3.0,0.0,16
+Abril 2026,Estrategia de Prospeccion,Formalizado,1.0,0.0,0.0,1.0,0.0,16
+Abril 2026,Plaza Pachuca,Ventas,3.0,1.0,33.0,3.0,33.0,16
+Abril 2026,Plaza Pachuca,Leads generados,60.0,55.0,92.0,60.0,92.0,16
+Abril 2026,Plaza Pachuca,Leads efectivos,45.0,55.0,110.0,45.0,110.0,16
+Abril 2026,Plaza Pachuca,Cita programada,28.0,8.0,29.0,28.0,29.0,16
+Abril 2026,Plaza Pachuca,Cita efectiva,15.0,7.0,47.0,15.0,47.0,16
+Abril 2026,Plaza Pachuca,Prueba de manejo,8.0,6.0,75.0,8.0,75.0,16
+Abril 2026,Plaza Pachuca,Solicitud de crédito generada,6.0,2.0,33.0,6.0,33.0,16
+Abril 2026,Plaza Pachuca,Solicitud de crédito aprobada,4.0,1.0,25.0,4.0,25.0,16
+Abril 2026,Plaza Pachuca,Formalizado,2.0,0.0,0.0,2.0,0.0,16
+Mayo 2026,GAC Angelopolis,Ventas,45.0,35.0,78.0,45.0,78.0,17
+Mayo 2026,GAC Angelopolis,Leads generados,1380.0,1251.0,91.0,1380.0,91.0,17
+Mayo 2026,GAC Angelopolis,Leads efectivos,926.0,735.0,79.0,926.0,79.0,17
+Mayo 2026,GAC Angelopolis,Cita programada,285.0,355.0,110.0,285.0,110.0,17
+Mayo 2026,GAC Angelopolis,Cita efectiva,215.0,267.0,110.0,215.0,110.0,17
+Mayo 2026,GAC Angelopolis,Prueba de manejo,130.0,143.0,110.0,130.0,110.0,17
+Mayo 2026,GAC Angelopolis,Solicitud de crédito generada,125.0,95.0,76.0,125.0,76.0,17
+Mayo 2026,GAC Angelopolis,Solicitud de crédito aprobada,58.0,44.0,76.0,58.0,76.0,17
+Mayo 2026,GAC Angelopolis,Formalizado,32.0,18.0,56.0,32.0,56.0,17
+Mayo 2026,Plaza Angelopólis,Ventas,10.0,3.0,30.0,10.0,30.0,17
+Mayo 2026,Plaza Angelopólis,Leads generados,280.0,198.0,71.0,280.0,71.0,17
+Mayo 2026,Plaza Angelopólis,Leads efectivos,208.0,193.0,93.0,208.0,93.0,17
+Mayo 2026,Plaza Angelopólis,Cita programada,85.0,35.0,41.0,85.0,41.0,17
+Mayo 2026,Plaza Angelopólis,Cita efectiva,45.0,22.0,49.0,45.0,49.0,17
+Mayo 2026,Plaza Angelopólis,Prueba de manejo,33.0,18.0,55.0,33.0,55.0,17
+Mayo 2026,Plaza Angelopólis,Solicitud de crédito generada,28.0,9.0,32.0,28.0,32.0,17
+Mayo 2026,Plaza Angelopólis,Solicitud de crédito aprobada,16.0,5.0,31.0,16.0,31.0,17
+Mayo 2026,Plaza Angelopólis,Formalizado,6.0,2.0,33.0,6.0,33.0,17
+Mayo 2026,Piso,Ventas,13.0,9.0,69.0,13.0,69.0,17
+Mayo 2026,Piso,Leads generados,85.0,115.0,110.0,85.0,110.0,17
+Mayo 2026,Piso,Leads efectivos,85.0,115.0,110.0,85.0,110.0,17
+Mayo 2026,Piso,Cita programada,85.0,107.0,110.0,85.0,110.0,17
+Mayo 2026,Piso,Cita efectiva,85.0,91.0,107.0,85.0,107.0,17
+Mayo 2026,Piso,Prueba de manejo,48.0,47.0,98.0,48.0,98.0,17
+Mayo 2026,Piso,Solicitud de crédito generada,35.0,24.0,69.0,35.0,69.0,17
+Mayo 2026,Piso,Solicitud de crédito aprobada,17.0,14.0,82.0,17.0,82.0,17
+Mayo 2026,Piso,Formalizado,8.0,6.0,75.0,8.0,75.0,17
+Mayo 2026,Custom,Ventas,1.0,0.0,0.0,1.0,0.0,17
+Mayo 2026,Custom,Leads generados,20.0,10.0,50.0,20.0,50.0,17
+Mayo 2026,Custom,Leads efectivos,20.0,10.0,50.0,20.0,50.0,17
+Mayo 2026,Custom,Cita programada,20.0,7.0,35.0,20.0,35.0,17
+Mayo 2026,Custom,Cita efectiva,20.0,5.0,25.0,20.0,25.0,17
+Mayo 2026,Custom,Prueba de manejo,12.0,7.0,58.0,12.0,58.0,17
+Mayo 2026,Custom,Solicitud de crédito generada,8.0,0.0,0.0,8.0,0.0,17
+Mayo 2026,Custom,Solicitud de crédito aprobada,5.0,0.0,0.0,5.0,0.0,17
+Mayo 2026,Custom,Formalizado,1.0,0.0,0.0,1.0,0.0,17
+Mayo 2026,Digital,Ventas,12.0,9.0,75.0,12.0,75.0,17
+Mayo 2026,Digital,Leads generados,600.0,667.0,110.0,600.0,110.0,17
+Mayo 2026,Digital,Leads efectivos,385.0,169.0,44.0,385.0,44.0,17
+Mayo 2026,Digital,Cita programada,94.0,139.0,110.0,94.0,110.0,17
+Mayo 2026,Digital,Cita efectiva,60.0,103.0,110.0,60.0,110.0,17
+Mayo 2026,Digital,Prueba de manejo,36.0,37.0,103.0,36.0,103.0,17
+Mayo 2026,Digital,Solicitud de crédito generada,17.0,30.0,110.0,17.0,110.0,17
+Mayo 2026,Digital,Solicitud de crédito aprobada,15.0,8.0,53.0,15.0,53.0,17
+Mayo 2026,Digital,Formalizado,8.0,3.0,38.0,8.0,38.0,17
+Mayo 2026,Gran Patio Tlaxcala,Ventas,3.0,1.0,33.0,3.0,33.0,17
+Mayo 2026,Gran Patio Tlaxcala,Leads generados,100.0,115.0,110.0,100.0,110.0,17
+Mayo 2026,Gran Patio Tlaxcala,Leads efectivos,85.0,115.0,110.0,85.0,110.0,17
+Mayo 2026,Gran Patio Tlaxcala,Cita programada,32.0,13.0,41.0,32.0,41.0,17
+Mayo 2026,Gran Patio Tlaxcala,Cita efectiva,25.0,9.0,36.0,25.0,36.0,17
+Mayo 2026,Gran Patio Tlaxcala,Prueba de manejo,20.0,8.0,40.0,20.0,40.0,17
+Mayo 2026,Gran Patio Tlaxcala,Solicitud de crédito generada,17.0,5.0,29.0,17.0,29.0,17
+Mayo 2026,Gran Patio Tlaxcala,Solicitud de crédito aprobada,10.0,2.0,20.0,10.0,20.0,17
+Mayo 2026,Gran Patio Tlaxcala,Formalizado,2.0,0.0,0.0,2.0,0.0,17
+Mayo 2026,Otros,Ventas,2.0,9.0,110.0,2.0,110.0,17
+Mayo 2026,Otros,Leads generados,85.0,43.0,51.0,85.0,51.0,17
+Mayo 2026,Otros,Leads efectivos,70.0,41.0,59.0,70.0,59.0,17
+Mayo 2026,Otros,Cita programada,40.0,11.0,28.0,40.0,28.0,17
+Mayo 2026,Otros,Cita efectiva,35.0,10.0,29.0,35.0,29.0,17
+Mayo 2026,Otros,Prueba de manejo,30.0,14.0,47.0,30.0,47.0,17
+Mayo 2026,Otros,Solicitud de crédito generada,25.0,19.0,76.0,25.0,76.0,17
+Mayo 2026,Otros,Solicitud de crédito aprobada,18.0,11.0,61.0,18.0,61.0,17
+Mayo 2026,Otros,Formalizado,2.0,5.0,110.0,2.0,110.0,17
+Mayo 2026,Prospeccion,Ventas,1.0,1.0,100.0,1.0,100.0,17
+Mayo 2026,Prospeccion,Leads generados,50.0,64.0,110.0,50.0,110.0,17
+Mayo 2026,Prospeccion,Leads efectivos,35.0,53.0,110.0,35.0,110.0,17
+Mayo 2026,Prospeccion,Cita programada,25.0,22.0,88.0,25.0,88.0,17
+Mayo 2026,Prospeccion,Cita efectiva,15.0,8.0,53.0,15.0,53.0,17
+Mayo 2026,Prospeccion,Prueba de manejo,10.0,6.0,60.0,10.0,60.0,17
+Mayo 2026,Prospeccion,Solicitud de crédito generada,5.0,4.0,80.0,5.0,80.0,17
+Mayo 2026,Prospeccion,Solicitud de crédito aprobada,3.0,3.0,100.0,3.0,100.0,17
+Mayo 2026,Prospeccion,Formalizado,1.0,1.0,100.0,1.0,100.0,17
+Mayo 2026,Plaza Pachuca,Ventas,3.0,3.0,100.0,3.0,100.0,17
+Mayo 2026,Plaza Pachuca,Leads generados,60.0,39.0,65.0,60.0,65.0,17
+Mayo 2026,Plaza Pachuca,Leads efectivos,45.0,39.0,87.0,45.0,87.0,17
+Mayo 2026,Plaza Pachuca,Cita programada,28.0,21.0,75.0,28.0,75.0,17
+Mayo 2026,Plaza Pachuca,Cita efectiva,15.0,19.0,110.0,15.0,110.0,17
+Mayo 2026,Plaza Pachuca,Prueba de manejo,8.0,6.0,75.0,8.0,75.0,17
+Mayo 2026,Plaza Pachuca,Solicitud de crédito generada,6.0,4.0,67.0,6.0,67.0,17
+Mayo 2026,Plaza Pachuca,Solicitud de crédito aprobada,4.0,1.0,25.0,4.0,25.0,17
+Mayo 2026,Plaza Pachuca,Formalizado,2.0,1.0,50.0,2.0,50.0,17
+Junio 2026,GAC Angelopolis,Ventas,45.0,37.0,82.0,45.0,82.0,18
+Junio 2026,GAC Angelopolis,Leads generados,1575.0,0.0,83.0,,83.0,18
+Junio 2026,GAC Angelopolis,Leads efectivos,1181.0,754.0,64.0,,64.0,18
+Junio 2026,GAC Angelopolis,Cita programada,258.0,251.0,97.0,258.0,97.0,18
+Junio 2026,GAC Angelopolis,Cita efectiva,170.0,154.0,91.0,170.0,91.0,18
+Junio 2026,GAC Angelopolis,Prueba de manejo,142.0,128.0,90.0,142.0,90.0,18
+Junio 2026,GAC Angelopolis,Solicitud de crédito generada,105.0,81.0,77.0,105.0,77.0,18
+Junio 2026,GAC Angelopolis,Solicitud de crédito aprobada,58.0,35.0,60.0,58.0,60.0,18
+Junio 2026,GAC Angelopolis,Formalizado,32.0,12.0,38.0,32.0,38.0,18
+Junio 2026,Plaza Angelopólis,Ventas,10.0,4.0,40.0,10.0,40.0,18
+Junio 2026,Plaza Angelopólis,Leads generados,250.0,250.0,100.0,250.0,100.0,18
+Junio 2026,Plaza Angelopólis,Leads efectivos,220.0,250.0,110.0,220.0,110.0,18
+Junio 2026,Plaza Angelopólis,Cita programada,85.0,41.0,48.0,85.0,48.0,18
+Junio 2026,Plaza Angelopólis,Cita efectiva,45.0,21.0,47.0,45.0,47.0,18
+Junio 2026,Plaza Angelopólis,Prueba de manejo,30.0,27.0,90.0,30.0,90.0,18
+Junio 2026,Plaza Angelopólis,Solicitud de crédito generada,25.0,9.0,36.0,25.0,36.0,18
+Junio 2026,Plaza Angelopólis,Solicitud de crédito aprobada,18.0,4.0,22.0,18.0,22.0,18
+Junio 2026,Plaza Angelopólis,Formalizado,7.0,2.0,29.0,7.0,29.0,18
+Junio 2026,Piso,Ventas,13.0,11.0,85.0,13.0,85.0,18
+Junio 2026,Piso,Leads generados,95.0,85.0,89.0,95.0,89.0,18
+Junio 2026,Piso,Leads efectivos,95.0,84.0,88.0,95.0,88.0,18
+Junio 2026,Piso,Cita programada,95.0,28.0,29.0,95.0,29.0,18
+Junio 2026,Piso,Cita efectiva,95.0,25.0,26.0,95.0,26.0,18
+Junio 2026,Piso,Prueba de manejo,53.0,42.0,79.0,53.0,79.0,18
+Junio 2026,Piso,Solicitud de crédito generada,35.0,22.0,63.0,35.0,63.0,18
+Junio 2026,Piso,Solicitud de crédito aprobada,18.0,15.0,83.0,18.0,83.0,18
+Junio 2026,Piso,Formalizado,8.0,6.0,75.0,8.0,75.0,18
+Junio 2026,Custom,Ventas,1.0,0.0,0.0,1.0,0.0,18
+Junio 2026,Custom,Leads generados,15.0,11.0,73.0,15.0,73.0,18
+Junio 2026,Custom,Leads efectivos,15.0,11.0,73.0,15.0,73.0,18
+Junio 2026,Custom,Cita programada,15.0,8.0,53.0,15.0,53.0,18
+Junio 2026,Custom,Cita efectiva,15.0,6.0,40.0,15.0,40.0,18
+Junio 2026,Custom,Prueba de manejo,8.0,7.0,88.0,8.0,88.0,18
+Junio 2026,Custom,Solicitud de crédito generada,5.0,0.0,0.0,5.0,0.0,18
+Junio 2026,Custom,Solicitud de crédito aprobada,3.0,0.0,0.0,3.0,0.0,18
+Junio 2026,Custom,Formalizado,1.0,0.0,0.0,1.0,0.0,18
+Junio 2026,Digital,Ventas,13.0,7.0,54.0,13.0,54.0,18
+Junio 2026,Digital,Leads generados,758.0,748.0,99.0,758.0,99.0,18
+Junio 2026,Digital,Leads efectivos,382.0,200.0,52.0,382.0,52.0,18
+Junio 2026,Digital,Cita programada,150.0,101.0,67.0,150.0,67.0,18
+Junio 2026,Digital,Cita efectiva,60.0,53.0,88.0,60.0,88.0,18
+Junio 2026,Digital,Prueba de manejo,42.0,28.0,67.0,42.0,67.0,18
+Junio 2026,Digital,Solicitud de crédito generada,25.0,28.0,110.0,25.0,110.0,18
+Junio 2026,Digital,Solicitud de crédito aprobada,15.0,7.0,47.0,15.0,47.0,18
+Junio 2026,Digital,Formalizado,10.0,2.0,20.0,10.0,20.0,18
+Junio 2026,Gran Patio Tlaxcala,Ventas,2.0,2.0,100.0,2.0,100.0,18
+Junio 2026,Gran Patio Tlaxcala,Leads generados,100.0,81.0,81.0,100.0,81.0,18
+Junio 2026,Gran Patio Tlaxcala,Leads efectivos,85.0,81.0,95.0,85.0,95.0,18
+Junio 2026,Gran Patio Tlaxcala,Cita programada,35.0,43.0,110.0,35.0,110.0,18
+Junio 2026,Gran Patio Tlaxcala,Cita efectiva,15.0,25.0,110.0,15.0,110.0,18
+Junio 2026,Gran Patio Tlaxcala,Prueba de manejo,10.0,8.0,80.0,10.0,80.0,18
+Junio 2026,Gran Patio Tlaxcala,Solicitud de crédito generada,5.0,1.0,20.0,5.0,20.0,18
+Junio 2026,Gran Patio Tlaxcala,Solicitud de crédito aprobada,3.0,1.0,33.0,3.0,33.0,18
+Junio 2026,Gran Patio Tlaxcala,Formalizado,1.0,0.0,0.0,1.0,0.0,18
+Junio 2026,Otros,Ventas,1.0,9.0,110.0,1.0,110.0,18
+Junio 2026,Otros,Leads generados,85.0,49.0,58.0,85.0,58.0,18
+Junio 2026,Otros,Leads efectivos,70.0,37.0,53.0,70.0,53.0,18
+Junio 2026,Otros,Cita programada,20.0,11.0,55.0,20.0,55.0,18
+Junio 2026,Otros,Cita efectiva,15.0,9.0,60.0,15.0,60.0,18
+Junio 2026,Otros,Prueba de manejo,10.0,9.0,90.0,10.0,90.0,18
+Junio 2026,Otros,Solicitud de crédito generada,5.0,14.0,110.0,5.0,110.0,18
+Junio 2026,Otros,Solicitud de crédito aprobada,4.0,5.0,110.0,4.0,110.0,18
+Junio 2026,Otros,Formalizado,1.0,2.0,110.0,1.0,110.0,18
+Junio 2026,Prospeccion,Ventas,1.0,0.0,0.0,1.0,0.0,18
+Junio 2026,Prospeccion,Leads generados,30.0,19.0,63.0,30.0,63.0,18
+Junio 2026,Prospeccion,Leads efectivos,25.0,19.0,76.0,25.0,76.0,18
+Junio 2026,Prospeccion,Cita programada,18.0,3.0,17.0,18.0,17.0,18
+Junio 2026,Prospeccion,Cita efectiva,7.0,2.0,29.0,7.0,29.0,18
+Junio 2026,Prospeccion,Prueba de manejo,5.0,1.0,20.0,5.0,20.0,18
+Junio 2026,Prospeccion,Solicitud de crédito generada,3.0,1.0,33.0,3.0,33.0,18
+Junio 2026,Prospeccion,Solicitud de crédito aprobada,2.0,0.0,0.0,2.0,0.0,18
+Junio 2026,Prospeccion,Formalizado,1.0,0.0,0.0,1.0,0.0,18
+Junio 2026,Plaza Pachuca,Ventas,2.0,4.0,110.0,2.0,110.0,18
+Junio 2026,Plaza Pachuca,Leads generados,60.0,43.0,72.0,60.0,72.0,18
+Junio 2026,Plaza Pachuca,Leads efectivos,45.0,43.0,96.0,45.0,96.0,18
+Junio 2026,Plaza Pachuca,Cita programada,28.0,14.0,50.0,28.0,50.0,18
+Junio 2026,Plaza Pachuca,Cita efectiva,20.0,12.0,60.0,20.0,60.0,18
+Junio 2026,Plaza Pachuca,Prueba de manejo,12.0,6.0,50.0,12.0,50.0,18
+Junio 2026,Plaza Pachuca,Solicitud de crédito generada,5.0,6.0,110.0,5.0,110.0,18
+Junio 2026,Plaza Pachuca,Solicitud de crédito aprobada,3.0,3.0,100.0,3.0,100.0,18
+Junio 2026,Plaza Pachuca,Formalizado,1.0,0.0,0.0,1.0,0.0,18
+Junio 2026,Plaza Pachuca,Ventas,2.0,0.0,0.0,2.0,0.0,18
+Junio 2026,Plaza Pachuca,Leads generados,70.0,29.0,41.0,70.0,41.0,18
+Junio 2026,Plaza Pachuca,Leads efectivos,58.0,29.0,50.0,58.0,50.0,18
+Junio 2026,Plaza Pachuca,Cita programada,35.0,2.0,6.0,35.0,6.0,18
+Junio 2026,Plaza Pachuca,Cita efectiva,20.0,1.0,5.0,20.0,5.0,18
+Junio 2026,Plaza Pachuca,Prueba de manejo,15.0,0.0,0.0,15.0,0.0,18
+Junio 2026,Plaza Pachuca,Solicitud de crédito generada,8.0,0.0,0.0,8.0,0.0,18
+Junio 2026,Plaza Pachuca,Solicitud de crédito aprobada,4.0,0.0,0.0,4.0,0.0,18
